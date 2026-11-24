@@ -138,7 +138,7 @@ Transfer to accounts left out of training was not measured (that run was stopped
 ## What was not done or not verified
 
 - **No LLM-mode run** (no `NVIDIA_API_KEY` or `GEMINI_API_KEY` was available). Only mocked-HTTP tests cover those providers.
-- **Docker was not installed**: the Dockerfiles, `docker-compose.yml` and images were **not built**. The Kubernetes manifests were validated statically (`scripts/validate_manifests.py`), not applied to a cluster.
+- **Containers**: Docker is not installed on the development machine. Both images (`backend`, `frontend`) are built by the GitHub Actions `images` job (built, not pushed; passing since 24 Nov 2026), but the containers were never started and `docker-compose.yml` was never run. The Kubernetes manifests were validated statically (`scripts/validate_manifests.py`), not applied to a cluster.
 - **The GitHub Actions workflow has not been run** (the repo was not pushed). It includes a step that fails fast if the runner's Python cannot load SQLite extensions.
 - Authentication is a demo `X-User-Id` header with fixed personas. Production would use OIDC/JWT from the company identity provider, with role and territory taken from token claims.
 - No streaming responses, so time-to-first-token is not measured.
@@ -157,7 +157,7 @@ Transfer to accounts left out of training was not measured (that run was stopped
 | AI evaluation | `backend/eval/`: hit rate, citation accuracy, groundedness proxy, leakage, injection and PII checks, CI gate |
 | LLM APIs | One provider interface: OpenAI-compatible (NIM, vLLM, Ollama), Gemini, offline |
 | Responsible AI, data privacy, access controls | Retrieval-time RBAC and territory filtering, 404 instead of 403 to avoid revealing records, PII redaction and restore, injection quarantine, audit log, the model cannot widen scope |
-| Kubernetes, containers, microservices, infrastructure as code | Dockerfiles, compose, Kubernetes Deployment/Service/HPA/ConfigMap/Secret template with kustomize (not built or applied, see above) |
+| Kubernetes, containers, microservices, infrastructure as code | Dockerfiles, compose, Kubernetes Deployment/Service/HPA/ConfigMap/Secret template with kustomize (images built in CI; never run or applied to a cluster, see above) |
 | NVIDIA AI stack | NIM's OpenAI-compatible endpoint is the default remote provider. NeMo Retriever (embedding and reranking), NeMo Guardrails (input and output rails), Triton and TensorRT-LLM (self-hosted serving) are natural next steps; they are not used here |
 
 ## Layout
