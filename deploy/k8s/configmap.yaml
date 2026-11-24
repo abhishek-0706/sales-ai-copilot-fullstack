@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: sales-ai-config
+  namespace: sales-ai
+data:
+  LLM_PROVIDER: "offline"            # set to "openai_compat" to use NIM / vLLM / Ollama
+  LLM_BASE_URL: "https://integrate.api.nvidia.com/v1"   # or an in-cluster NIM Service, e.g. http://nim-llm:8000/v1
+  LLM_MODEL: "meta/llama-3.3-70b-instruct"
+  EMBEDDER: "hash"
+  RETRIEVAL_K: "6"
+  OTEL_CONSOLE: "false"
+  VAR_DIR: "/app/var"

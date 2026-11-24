@@ -1,0 +1,43 @@
+[
+  {
+    "id": "u-sdr-01",
+    "name": "Asha Rao",
+    "role": "SDR",
+    "territories": [
+      "APAC-West"
+    ]
+  },
+  {
+    "id": "u-ae-01",
+    "name": "Ravi Menon",
+    "role": "AE",
+    "territories": [
+      "APAC-West"
+    ]
+  },
+  {
+    "id": "u-ae-02",
+    "name": "Elena Varga",
+    "role": "AE",
+    "territories": [
+      "EMEA-North"
+    ]
+  },
+  {
+    "id": "u-ae-03",
+    "name": "Karthik Iyer",
+    "role": "AE",
+    "territories": [
+      "APAC-South"
+    ]
+  },
+  {
+    "id": "u-mgr-01",
+    "name": "Meera Shah",
+    "role": "MANAGER",
+    "territories": [
+      "APAC-West",
+      "APAC-South"
+    ]
+  }
+]

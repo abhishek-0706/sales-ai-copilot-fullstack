@@ -1,0 +1,10 @@
+# Training-only dependencies (separate venv: backend/finetune/.venv-train). Install torch first from the CPU index:
+#   pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers==6.3.0
+transformers==5.24.0
+datasets==5.2.0
+accelerate==1.16.0
+onnx==1.23.2
+onnxscript==0.7.2
+onnxruntime==1.32.0
+numpy==2.5.5

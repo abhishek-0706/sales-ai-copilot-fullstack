@@ -1,0 +1,319 @@
+{
+  "provider": "offline",
+  "model": "deterministic-extractive-v1",
+  "embedder": "fastembed:BAAI/bge-small-en-v1.5",
+  "retrieval_k": 6,
+  "golden_questions": 33,
+  "positive_questions": 27,
+  "negative_and_injection_questions": 6,
+  "requests_checked": 96,
+  "evidence_hit_rate": 0.963,
+  "retrieval_hit_rate_vector": 1.0,
+  "retrieval_hit_rate_keyword": 0.926,
+  "retrieval_hit_rate_hybrid": 0.963,
+  "paraphrase_questions": 5,
+  "paraphrase_retrieval_hit_rate_vector": 1.0,
+  "paraphrase_retrieval_hit_rate_keyword": 0.6,
+  "paraphrase_retrieval_hit_rate_hybrid": 0.8,
+  "paraphrase_answer_fact_rate": 0.0,
+  "citation_hit_rate": 0.815,
+  "citation_validity": 1.0,
+  "answer_fact_rate": 0.815,
+  "groundedness_mean": 1.0,
+  "workflow_groundedness_mean": 1.0,
+  "access_leakage": 0,
+  "negative_case_violations": 0,
+  "unauthorised_not_404": 0,
+  "injection_reached_model": 0,
+  "injection_in_output": 0,
+  "quarantined_injection_hits": 20,
+  "pii_values_in_prompts": 0,
+  "model_requests_inspected": 129,
+  "rows": [
+    {
+      "id": "q01",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q02",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q03",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q04",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q05",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q06",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q07",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q08",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q09",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q10",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q11",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q12",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q13",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q14",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q15",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q16",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q17",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q18",
+      "user": "MANAGER",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q19",
+      "user": "MANAGER",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q20",
+      "user": "MANAGER",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q21",
+      "user": "SDR",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "q22",
+      "user": "SDR",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": true,
+      "answer_fact": true
+    },
+    {
+      "id": "p01",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": false,
+      "answer_fact": false
+    },
+    {
+      "id": "p02",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": false,
+      "answer_fact": false
+    },
+    {
+      "id": "p03",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": false,
+      "citation_hit": false,
+      "answer_fact": false
+    },
+    {
+      "id": "p04",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": false,
+      "answer_fact": false
+    },
+    {
+      "id": "p05",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "positive",
+      "evidence_hit": true,
+      "citation_hit": false,
+      "answer_fact": false
+    },
+    {
+      "id": "n01",
+      "user": "SDR",
+      "groundedness": 1.0,
+      "kind": "negative",
+      "violations": 0
+    },
+    {
+      "id": "n02",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "negative",
+      "violations": 0
+    },
+    {
+      "id": "n03",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "negative",
+      "violations": 0
+    },
+    {
+      "id": "n04",
+      "user": "SDR",
+      "groundedness": 1.0,
+      "kind": "negative",
+      "violations": 0
+    },
+    {
+      "id": "n05",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "negative",
+      "violations": 0
+    },
+    {
+      "id": "i01",
+      "user": "AE",
+      "groundedness": 1.0,
+      "kind": "injection",
+      "violations": 0
+    }
+  ]
+}

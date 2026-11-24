@@ -1,0 +1,134 @@
+[
+  {
+    "id": "EML-0011",
+    "account_id": "ACC-001",
+    "territory": "APAC-West",
+    "date": "2026-11-09",
+    "from": "nikhil.bansal@velmora.example",
+    "to": "u-ae-01@orbitra.example",
+    "subject": "Re: document AI for bills of lading and customs forms pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on whether handwritten annotations can be extracted. Our main concern remains that the CFO wants payback inside 9 months. Regards, Nikhil Bansal, VP Operations, nikhil.bansal@velmora.example, phone +91 20 5550 111",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0021",
+    "account_id": "ACC-002",
+    "territory": "APAC-West",
+    "date": "2026-11-10",
+    "from": "leena.kapoor@kestrelline.example",
+    "to": "u-ae-01@orbitra.example",
+    "subject": "Re: clinical note summarisation for discharge summaries pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on how protected health information is redacted before inference. Our main concern remains that the hospital security review is pending and patient data residency is mandatory. Regards, Dr. Leena Kapoor, Chief Medical Information Officer, leena.kapoor@kestrelline.example, phone +91 20 5550 121",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0031",
+    "account_id": "ACC-003",
+    "territory": "APAC-West",
+    "date": "2026-11-11",
+    "from": "suresh.gaikwad@torvane.example",
+    "to": "u-ae-01@orbitra.example",
+    "subject": "Re: visual defect inspection on the assembly line at the edge pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on whether the appliance survives dust and heat on the shop floor. Our main concern remains that capital budget approval is only expected in the first quarter. Regards, Suresh Gaikwad, Plant Director, suresh.gaikwad@torvane.example, phone +91 20 5550 131",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0041",
+    "account_id": "ACC-004",
+    "territory": "APAC-West",
+    "date": "2026-11-12",
+    "from": "rohan.mehta@lumisk.example",
+    "to": "u-ae-01@orbitra.example",
+    "subject": "Re: semantic product search and recommendations on their storefront pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on how the index is updated when the catalogue changes hourly. Our main concern remains that their peak season code freeze starts in December. Regards, Rohan Mehta, Head of Digital, rohan.mehta@lumisk.example, phone +91 20 5550 141",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0051",
+    "account_id": "ACC-005",
+    "territory": "APAC-South",
+    "date": "2026-11-13",
+    "from": "vidya.raman@quarnell.example",
+    "to": "u-ae-03@orbitra.example",
+    "subject": "Re: a customer service agent assistant with retrieval over policy documents pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on whether responses can be restricted to approved policy documents only. Our main concern remains that model risk management sign-off requires explainability and evaluation evidence. Regards, Vidya Raman, Chief Digital Officer, vidya.raman@quarnell.example, phone +91 44 5550 151",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0061",
+    "account_id": "ACC-006",
+    "territory": "APAC-South",
+    "date": "2026-11-14",
+    "from": "deepak.nair@tidemarch.example",
+    "to": "u-ae-03@orbitra.example",
+    "subject": "Re: a knowledge assistant for field engineers doing turbine maintenance pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on how answers are kept up to date when manuals are revised. Our main concern remains that intermittent connectivity at offshore sites. Regards, Deepak Nair, Director of Asset Reliability, deepak.nair@tidemarch.example, phone +91 44 5550 161",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0071",
+    "account_id": "ACC-007",
+    "territory": "APAC-South",
+    "date": "2026-11-15",
+    "from": "sanjay.reddy@ombrevale.example",
+    "to": "u-ae-03@orbitra.example",
+    "subject": "Re: customer churn prediction and retention offers pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on who now owns the budget after the reorganisation. Our main concern remains that the deal has stalled since the economic buyer changed roles. Regards, Sanjay Reddy, Customer Analytics Lead, sanjay.reddy@ombrevale.example, phone +91 44 5550 171",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0081",
+    "account_id": "ACC-008",
+    "territory": "EMEA-North",
+    "date": "2026-11-16",
+    "from": "mads.holm@skyrune.example",
+    "to": "u-ae-02@orbitra.example",
+    "subject": "Re: a customer service copilot for rebooking disrupted passengers pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on whether the copilot can run in an EU-only region. Our main concern remains that GDPR review of passenger data processing. Regards, Mads Holm, VP Customer Experience, mads.holm@skyrune.example, phone +45 3555 181",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0091",
+    "account_id": "ACC-009",
+    "territory": "EMEA-North",
+    "date": "2026-11-17",
+    "from": "erik.lindqvist@feldspire.example",
+    "to": "u-ae-02@orbitra.example",
+    "subject": "Re: an agent that triages network operations alarms pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on how the agent is prevented from executing changes without approval. Our main concern remains that the pilot depends on access to their alarm data lake. Regards, Erik Lindqvist, Head of Network Automation, erik.lindqvist@feldspire.example, phone +45 3555 191",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0101",
+    "account_id": "ACC-010",
+    "territory": "EMEA-North",
+    "date": "2026-11-18",
+    "from": "henrik.dahl@granmoor.example",
+    "to": "u-ae-02@orbitra.example",
+    "subject": "Re: claims document triage and fraud signals pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on what accuracy guarantee can be written into the contract. Our main concern remains that procurement requires three vendor quotes. Regards, Henrik Dahl, Claims Transformation Lead, henrik.dahl@granmoor.example, phone +45 3555 201",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0111",
+    "account_id": "ACC-011",
+    "territory": "NA-East",
+    "date": "2026-11-19",
+    "from": "grace.whitman@halvecrest.example",
+    "to": "u-ae-04@orbitra.example",
+    "subject": "Re: retrieval over research literature and lab reports pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on how the system handles confidential unpublished results. Our main concern remains that validated systems rules for regulated research data. Regards, Grace Whitman, Head of Research Informatics, grace.whitman@halvecrest.example, phone +1 617 555 211",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "EML-0121",
+    "account_id": "ACC-012",
+    "territory": "NA-East",
+    "date": "2026-11-20",
+    "from": "daniel.ortiz@orbelle.example",
+    "to": "u-ae-04@orbitra.example",
+    "subject": "Re: an assistant over chip design documentation pilot",
+    "body": "Thanks for the session. Before we commit we need clarity on how document-level access controls carry into the retrieval index. Our main concern remains that strict intellectual property controls on design data. Regards, Daniel Ortiz, Director of Design Methodology, daniel.ortiz@orbelle.example, phone +1 617 555 221",
+    "sensitivity": "confidential"
+  }
+]

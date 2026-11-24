@@ -1,0 +1,1115 @@
+{"question": "What is the account ID and location for the strategic logistics client in Mumbai?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Show me the details of the opportunity for document AI with a $420k value and a 40% win chance.", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Who owns the Velmora Logistics account and how many employees do they have?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "List the products included in the document AI deal.", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What stage is the technical validation currently in for the document AI sale?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When is the expected close date for the document AI opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What was discussed in the discovery call on October 3rd regarding shipping documents?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "How many shipping documents does the client process each month?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the main pain point the VP of Operations mentioned about manual processing?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What feedback did the operations team give after the demo on October 15th?", "relevant": ["ACT-0002"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Did the demo impress the team on scanned customs form extraction accuracy?", "relevant": ["ACT-0002"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Is there an open question about extracting handwritten notes from documents?", "relevant": ["ACT-0002", "EML-0011", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What competitor is Velmora also evaluating?", "relevant": ["ACT-0003", "OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Why is the competitor considered cheaper, and what limitation does it have?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What risk did the CFO raise regarding payback period?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What next step was agreed on after the note on November 7th?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the maximum discount the deal desk approved for this account?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Are we allowed to share the floor price with the customer?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What email did Nikhil Bansal send about the pilot and handwritten extraction?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the contact phone number for the VP of Operations?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When is the meeting to send the pilot success criteria document scheduled?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What agenda items are set for the November 25th meeting?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which records mention the need to send the pilot success criteria document?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Give me a summary of all notes related to competition and pricing for this logistics account.", "relevant": ["ACT-0003", "ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "How many employees does the APAC\u2011West logistics client have?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record shows the close date of the opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the probability percentage for winning the document AI deal?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What was the outcome of the discovery call on 2026\u201110\u201103?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Did the client express interest in running the solution in their private cloud?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the CFO\u2019s expectation for ROI on this project?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity logs mention the pilot success criteria as a next step?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What product suite is being pitched for document AI?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Any notes on discount limits for this deal?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the email address of the VP who responded about handwritten extraction?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When did the demo take place and what was the key feedback?", "relevant": ["ACT-0002"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the industry and region of the strategic account we are targeting?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "List all records that reference the payback period requirement.", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Show me the meeting details for the pilot criteria discussion.", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record contains the competitor\u2019s inability to run inside a private cloud?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the name of the VP of Operations who is the main contact?", "relevant": ["ACT-0001", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Summarize the deal risk and discount guidance for this opportunity.", "relevant": ["ACT-0004", "ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "How many shipping documents does the client handle monthly, and what is the pain point?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the next action we need to take for the pilot according to the latest note?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Give me the account\u2019s strategic classification and region.", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What stage and amount are listed for the document AI opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which records mention the need to extract handwritten annotations?", "relevant": ["ACT-0002", "EML-0011", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the contact phone number for the logistics client\u2019s VP?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When is the close date and what is the win probability for the opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the approved maximum discount for this deal?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity notes talk about the competitor being cheaper per page?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the timeline for the meeting on November 25th?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record details the product demo feedback on extraction accuracy?", "relevant": ["ACT-0002"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the primary use case the client wants for document AI?", "relevant": ["ACC-001", "ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Who is the account owner for the Mumbai logistics customer?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the expected ROI period the CFO is demanding?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the email subject line that Nikhil used for the pilot query?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When was the discovery call held and who attended?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record lists the competitor Kordon Cloud?", "relevant": ["ACT-0003", "OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the next step agreed in both the note and the meeting?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Provide the ID of the activity that captured the CFO\u2019s payback concern.", "relevant": ["ACT-0004"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which records contain the phrase 'pilot success criteria document'?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the region code for the account\u2019s location?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "List all IDs that mention the document AI use case for bills of lading.", "relevant": ["ACC-001", "ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the contact email for the VP of Operations?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record shows the meeting start time and duration?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What discount percentage must we not exceed for this deal?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When is the technical validation stage expected to finish?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity recorded a competitive note on November 3rd?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the client\u2019s main concern about ROI on the document AI solution?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Who sent the email on November 9th regarding the pilot?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What product is being positioned alongside Orbitra Document AI?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record contains the phrase 'private cloud'?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the total number of employees for the strategic logistics account?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When was the manager note about discount guidance created?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record includes the CFO\u2019s 9\u2011month payback requirement?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the agenda for the upcoming meeting on pilot criteria?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record mentions the competitor cannot run inside the client\u2019s private cloud?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the opportunity amount in USD for the document AI deal?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the stage name for the opportunity currently?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity logged a note about the risk of the deal?", "relevant": ["ACT-0004"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the name of the VP of Operations who attended the discovery call?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When is the pilot success criteria document supposed to be sent?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record documents the competitor\u2019s pricing advantage per page?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the location (city and region) of the account?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record contains the phrase 'technical validation'?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the probability of winning the opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record shows the meeting start time with timezone offset?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the account classification for the client in Mumbai?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity mentions the extraction accuracy impressing the team?", "relevant": ["ACT-0002"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the next step after the meeting on 2026\u201111\u201125?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record includes the phrase 'handwritten annotations'?", "relevant": ["ACT-0002", "EML-0011", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the discount ceiling for this deal according to the manager note?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record includes the phone number +91 20 5550 111?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the main use case the client wants to solve with AI?", "relevant": ["ACC-001", "ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record indicates the competitor name Kordon Cloud?", "relevant": ["ACT-0003", "OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the date of the discovery call?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When is the close date for the document AI opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record mentions the need to send a pilot success criteria document?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the region code for the APAC\u2011West location?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Who is the owner of the account?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record shows the amount USD 420,000?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the competitor\u2019s limitation regarding private cloud deployment?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record mentions the CFO wants a 9\u2011month payback?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the email subject line for the pilot discussion?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity recorded a note on November 16 about discount policy?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the probability percentage for the opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record contains the phrase 'Orbitra Inference Platform'?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the next step agreed in both the note and the meeting regarding the pilot?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record mentions the number of shipping documents processed per month?", "relevant": ["ACT-0001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the name of the VP of Operations who sent the email?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "When is the meeting scheduled to discuss pilot success criteria?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record includes the phrase 'send the pilot success criteria document'?", "relevant": ["ACT-0004", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the discount limit for the Velmora deal?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record shows the account\u2019s strategic classification?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the client's main concern about ROI timeline?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity captured the competitive note on November 3rd?", "relevant": ["ACT-0003"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the product name for the document AI solution being sold?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record mentions the extraction accuracy on scanned customs forms?", "relevant": ["ACT-0002"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the city and region for the logistics account?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record contains the phrase 'handwritten annotations can be extracted'?", "relevant": ["ACT-0002", "EML-0011", "MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the email address of the contact who replied about the pilot?", "relevant": ["EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record mentions the discount should not be disclosed to the customer?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the stage name for the current opportunity?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which activity notes the CFO\u2019s requirement for a 9\u2011month payback period?", "relevant": ["ACT-0004", "EML-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the total number of employees for the client?", "relevant": ["ACC-001"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record includes the phrase 'technical validation' and the amount USD 420,000?", "relevant": ["OPP-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the next action after the meeting on 2026\u201111\u201125?", "relevant": ["MTG-0011"], "source": "llm", "bundle": "ACC-001"}
+{"question": "Which record contains the note about not sharing the floor price?", "relevant": ["ACT-0047"], "source": "llm", "bundle": "ACC-001"}
+{"question": "What is the account ID for the Pune\u2011based healthcare client?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the opportunity value for clinical note summarisation?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the security questionnaire due for the hospital compliance team?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Who is the CMO that we spoke with on the discovery call in early October?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What product suite are we proposing for the discharge summary AI?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Any feedback about audit trails from the demo?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which competitor is also being evaluated for the same use case?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "How many employees does the APAC\u2011West hospital have?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the probability percentage listed for the current deal?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Summarise the main pain point mentioned by the doctor on 4 Oct.", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the next meeting to discuss the security questionnaire?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which email raised concerns about PHI redaction?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What stage is the opportunity in right now?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Did the clinicians like the quality of the AI summaries?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the close date for the clinical note summarisation deal?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Who is the contact person for the compliance discussion?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the phone number of the chief medical information officer?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions that patient data must stay in\u2011country?", "relevant": ["ACT-0007", "ACT-0008", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "How long is the demo session scheduled for on 16 Oct?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the name of the platform we\u2019re offering for inference?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the industry of the account located in Pune?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "List all IDs that talk about the pending security review.", "relevant": ["ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the email address of Dr. Leena Kapoor?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the term \u2018Orbitra Guard\u2019?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When did we hold the discovery call with the hospital\u2019s CMO?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the amount of the opportunity in USD?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Any notes about data residency requirements?", "relevant": ["ACT-0007", "ACT-0008", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the meeting agenda for the 26 Nov session?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions a 45\u2011minute meeting duration?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Who owns the Kestrelline Health account internally?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the probability of winning the deal?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What product does Brightlake AI provide that concerns us?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the main use case the hospital is interested in?", "relevant": ["ACC-002", "OPP-0021", "ACT-0005", "ACT-0006", "ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the expected close month for the opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the next action item for the compliance team?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Any mention of how long doctors spend writing discharge notes?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record contains the term \u2018clinical note summarisation\u2019?", "relevant": ["ACC-002", "OPP-0021", "ACT-0005", "ACT-0006", "ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What time zone is the upcoming meeting scheduled in?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the competitor\u2019s hosted API risk?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the name of the chief medical information officer?", "relevant": ["ACT-0005", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "How many staff members does the client have roughly?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When did the demo take place?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the key concern about protected health information raised by the client?", "relevant": ["ACT-0006", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which IDs reference the \u2018Orbitra Inference Platform\u2019?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the region code for the account\u2019s location?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "List all records that include the phrase \u2018complete the security questionnaire\u2019.", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the date of the email sent on 10 Nov?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record captures the next step for the opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the contact\u2019s full name and title?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the hospital\u2019s location as Pune?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the product that provides data protection during inference?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the close date for the clinical note summarisation opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record details the demo feedback about audit trails?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What stage is the deal currently in?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Who is the account owner for the Kestrelline Health account?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the main use case discussed in the discovery call?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the security questionnaire meeting scheduled?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the competitor Brightlake AI\u2019s data residency issue?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the amount of the opportunity in dollars?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u2018clinical note summarisation for discharge summaries\u2019?", "relevant": ["ACC-002", "OPP-0021", "ACT-0005", "ACT-0006", "ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the probability percentage of winning?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which activity notes that the hospital security review is still pending?", "relevant": ["ACT-0008", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the contact\u2019s phone number?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When did the discovery call happen?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What product names are listed in the opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the meeting start time with timezone offset?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the main concern about patient data residency?", "relevant": ["ACT-0007", "ACT-0008", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Who is the chief medical information officer at Kestrelline Health?", "relevant": ["ACT-0005", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the region abbreviation for the account\u2019s location?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the opportunity expected to close?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions that clinicians liked the summary quality?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the next step listed for the deal?", "relevant": ["OPP-0021", "ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which ID contains the phrase \u2018audit trail\u2019 request?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the industry of the client?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the term \u2018APAP\u2011West\u2019?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the amount in the opportunity record?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the demo scheduled?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions a 2\u2011hour shift writing discharge summaries?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the email subject line for the PHI redaction query?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the meeting duration?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the account\u2019s employee count?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record references the \u2018Orbitra Guard\u2019 product?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the next action for compliance?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which activity mentions a competitive note about Brightlake AI?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the date of the security questionnaire meeting?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Who owns the Kestrelline Health account internally?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the main use case the client wants?", "relevant": ["ACC-002", "OPP-0021", "ACT-0005", "ACT-0006", "ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u2018clinical note summarisation\u2019 and \u2018discharge summaries\u2019?", "relevant": ["ACC-002", "OPP-0021", "ACT-0005", "ACT-0006", "ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the probability of the opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the meeting to review progress on the AI summarisation project?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the competitor\u2019s hosted API risk of data leaving the country?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the contact\u2019s email address?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the \u2018security questionnaire\u2019 as next step?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the region code for APAC\u2011West?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which ID contains the phrase \u2018clinical note summarisation for discharge summaries pilot\u2019?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the close date for the opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What product is being pitched for inference?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u2018pain point\u2019 about doctors writing summaries?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the next step after the security questionnaire?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the client\u2019s location as Pune?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the amount of the deal in USD?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which activity notes that clinicians want an audit trail?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the phone number for Dr. Leena Kapoor?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When did the note about the competitive evaluation get logged?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the stage of the opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u2018complete the security questionnaire\u2019?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the main concern about PHI before inference?", "relevant": ["ACT-0006", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the meeting agenda to address PHI redaction?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the contact\u2019s title?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the \u2018Orbitra Inference Platform\u2019?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "When is the discovery call scheduled?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record contains the phrase \u2018deal risk\u2019?", "relevant": ["ACT-0008"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the amount listed for the clinical note summarisation opportunity?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions that the hospital\u2019s security review is pending?", "relevant": ["ACT-0008", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the date of the demo session?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u2018patient data residency is mandatory\u2019?", "relevant": ["ACT-0008", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the name of the chief medical information officer?", "relevant": ["ACT-0005", "EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the opportunity probability as 25%?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the next action for the compliance team?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the product \u2018Orbitra Guard\u2019?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the region of the account?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes a note about a competitive evaluation of Brightlake AI?", "relevant": ["ACT-0007"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the date of the email from Dr. Kapoor?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the amount USD 310,000?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the stage of the opportunity for the discharge summary AI?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record references the term \u2018APAC\u2011West\u2019?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the main use case the client wants to address?", "relevant": ["ACC-002", "OPP-0021", "ACT-0005", "ACT-0006", "ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u2018clinical note summarisation\u2019 and \u2018pilot\u2019?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the next step listed in the opportunity record?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the meeting start time with timezone offset +05:30?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the name of the account owner?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions a 45\u2011minute meeting?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the probability percentage for the deal?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u2018clinical note summarisation for discharge summaries\u2019?", "relevant": ["ACC-002", "OPP-0021", "ACT-0005", "ACT-0006", "ACT-0008", "EML-0021", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the date of the security questionnaire meeting?", "relevant": ["MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record shows the email subject line?", "relevant": ["EML-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the product name that provides a guard for inference?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record includes the phrase \u20182 hours per shift\u2019 as a pain point?", "relevant": ["ACT-0005"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the account\u2019s location city?", "relevant": ["ACC-002"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record mentions the client\u2019s need for an audit trail?", "relevant": ["ACT-0006"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the amount in the opportunity (USD)?", "relevant": ["OPP-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "Which record references the term \u2018security questionnaire\u2019 as a next step?", "relevant": ["ACT-0008", "MTG-0021"], "source": "llm", "bundle": "ACC-002"}
+{"question": "What is the ID and location of the Torvane Manufacturing account?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the account record for the large manufacturing client in Ahmedabad.", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Who owns the Torvane Manufacturing account and how many employees do they have?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which opportunity is for visual defect inspection on an edge device?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Give me the stage, amount and close date for the edge inspection deal.", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What product is being offered in the Torvane visual inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "When is the two\u2011week edge appliance trial scheduled to start?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the agenda for the upcoming meeting about the edge trial?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find the call notes where a 3.5% defect escape rate was mentioned.", "relevant": ["ACT-0009"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What pain point did Suresh Gaikwad raise during the discovery call?", "relevant": ["ACT-0009"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What latency requirement did the plant team set during the demo?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Did the demo team ask about dust and heat resistance of the appliance?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity records mention budget approval timing?", "relevant": ["ACT-0011", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What risk was noted regarding capital budget for this deal?", "relevant": ["ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What question did Suresh raise in his email about the appliance?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record contains Suresh\u2019s phone number?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "List all records that reference a two\u2011week trial on line 4.", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Do we have any competitor information for the visual inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability percentage for the Torvane visual inspection deal?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me any notes about dust and heat concerns on the shop floor.", "relevant": ["ACT-0010", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the next step listed in the discovery call notes?", "relevant": ["ACT-0009", "ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the plant director\u2019s name?", "relevant": ["ACT-0009", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find the email from suresh.gaikwad@torvane.example about the pilot.", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the scheduled date for the demo with Torvane Manufacturing?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity records talk about a trial on line 4?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Give me the contact details for the Torvane plant director.", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What region is the Torvane account located in?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What industry does the Torvane Manufacturing account belong to?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the expected close year for the visual defect inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any notes on the expected latency for edge inference?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the amount in USD for the Torvane edge inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record contains the phrase \u2018visual defect inspection on the assembly line at the edge\u2019?", "relevant": ["ACC-003", "OPP-0031", "ACT-0009", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Do we have a scheduled meeting to review the edge trial progress?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the meeting duration for the edge appliance trial discussion?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any competitor listed for the current Torvane deal?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What stage is the Torvane visual inspection opportunity in?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity mentions a discovery call on October 5, 2026?", "relevant": ["ACT-0009"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the record that notes a risk due to budget timing.", "relevant": ["ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the next action after the demo according to the notes?", "relevant": ["ACT-0010", "ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Search for any records that include \u2018edge appliance trial\u2019.", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability of winning the Torvane edge inspection deal?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record lists the close date as 2027\u201105\u201129?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the contact email for the Torvane Plant Director?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any notes about dust resistance for the edge device?", "relevant": ["ACT-0010", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find the activity where the plant team asked about heat tolerance.", "relevant": ["ACT-0010", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability percentage for the opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record includes the phrase \u2018capital budget approval\u2019?", "relevant": ["ACT-0011", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the latency target the plant wants per frame?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Give me the meeting ID for the two\u2011week trial discussion.", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity mentions a defect escape rate of 3.5%?", "relevant": ["ACT-0009"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the region code for the Torvane account?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the opportunity amount in USD for the visual inspection deal.", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any notes on the first\u2011quarter budget timeline?", "relevant": ["ACT-0011", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record contains the phrase \u2018edge appliance\u2019?", "relevant": ["OPP-0031", "ACT-0010", "ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the name of the plant director we\u2019re dealing with?", "relevant": ["ACT-0009", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "When is the demo scheduled for the edge appliance?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the line number for the trial?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the contact phone number for the Torvane plant director?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find any record that references \u2018APAC\u2011West\u2019.", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the employee count for the Torvane account?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity notes a next step to run a two\u2011week trial?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any competitor listed for the edge inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the stage of the Torvane visual defect inspection deal?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the email subject line about the visual defect pilot.", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the trial will be on line 4?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability of closing the Torvane edge deal?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the date of the discovery call with Suresh Gaikwad?", "relevant": ["ACT-0009"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record contains the phrase \u2018dust and heat on the shop floor\u2019?", "relevant": ["ACT-0010", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find the meeting that starts at 11:30 IST on November 27, 2026.", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the amount in USD for the visual defect inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the product name Orbitra Edge Appliance?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability percentage for the discovery stage?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any notes about the trial duration?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the name of the account owner for Torvane?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record has the phrase \u2018visual defect inspection on the assembly line at the edge\u2019?", "relevant": ["ACC-003", "OPP-0031", "ACT-0009", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the activity ID for the demo on October 17, 2026.", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the expected latency per frame for the edge device?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record includes the phrase \u2018capital budget approval is only expected in the first quarter\u2019?", "relevant": ["ACT-0011", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find any record that mentions a two\u2011week trial.", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the contact email for the Torvane plant director?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record references the city Ahmedabad?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the region abbreviation for the Torvane account?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any mention of a competitor for this deal?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the next step after the discovery call?", "relevant": ["ACT-0009", "ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record lists the meeting agenda about dust and heat?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the opportunity ID for the visual defect inspection deal.", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability of winning the Torvane visual inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity notes a risk due to budget timing?", "relevant": ["ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the product being demoed for the edge inspection?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find the email that asks about appliance durability on the shop floor.", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record contains the phrase \u2018edge appliance trial on line 4\u2019?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the scheduled date for the meeting to review the edge trial?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the plant director\u2019s title?", "relevant": ["ACT-0009", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the account ID for the large manufacturing client in APAC\u2011West.", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the amount and currency for the Torvane edge opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record includes a note about a 3.5% defect escape rate?", "relevant": ["ACT-0009"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Any record that references \u2018Orbitra Edge Appliance\u2019?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability percentage listed for the visual defect inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity mentions the plant director\u2019s phone number?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the meeting ID for the two\u2011week trial discussion?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find the record that contains the phrase \u2018edge appliance trial\u2019.", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record has the stage set to Discovery?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the next step after the demo according to the notes?", "relevant": ["ACT-0010", "ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the trial will be conducted on line 4?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the email subject that includes \u2018visual defect inspection on the assembly line at the edge pilot\u2019.", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability of closing the opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record notes the trial duration of two weeks?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the contact phone number for Suresh Gaikwad?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity includes the phrase \u2018run a two\u2011week edge appliance trial on line 4\u2019?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the name of the account owner for Torvane?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find any record that mentions dust and heat concerns for the appliance.", "relevant": ["ACT-0010", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record shows the close date of 2027\u201105\u201129?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the latency requirement mentioned in the demo?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record contains the phrase \u2018capital budget approval\u2019?", "relevant": ["ACT-0011", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the meeting start time for the edge trial review.", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the region APAP\u2011West?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the employee count for the manufacturing account?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record lists the product Orbitra Edge Appliance?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Find the activity where the next step is to run a two\u2011week trial.", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability percentage for the discovery stage?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions a 3.5% defect escape rate?", "relevant": ["ACT-0009"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the email address of the Torvane plant director?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record includes the phrase \u2018visual defect inspection\u2019?", "relevant": ["ACC-003", "OPP-0031", "ACT-0009", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the meeting agenda for the November 27 session?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the plant director\u2019s name?", "relevant": ["ACT-0009", "EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Show me the ID for the opportunity related to edge inspection.", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability of winning the Torvane edge appliance deal?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record contains the phrase \u2018two\u2011week edge appliance trial\u2019?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the amount for the visual defect inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which activity notes a risk due to budget timing in Q1?", "relevant": ["ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the contact email for Suresh Gaikwad?", "relevant": ["EML-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions the city of Ahmedabad?", "relevant": ["ACC-003"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the stage of the Torvane visual inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record includes the phrase \u2018edge appliance\u2019?", "relevant": ["OPP-0031", "ACT-0010", "ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the next step after the discovery call?", "relevant": ["ACT-0009", "ACT-0011"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record mentions a two\u2011week trial on line 4?", "relevant": ["ACT-0011", "MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the latency target per frame discussed in the demo?", "relevant": ["ACT-0010"], "source": "llm", "bundle": "ACC-003"}
+{"question": "Which record lists the meeting duration?", "relevant": ["MTG-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the probability percent for the edge inspection opportunity?", "relevant": ["OPP-0031"], "source": "llm", "bundle": "ACC-003"}
+{"question": "What is the account ID and location for the Bengaluru retail client?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Show me the details of the opportunity worth 150k USD with a 60% win chance.", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which contact from the digital team mentioned a problem with irrelevant search results?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "How many queries are we planning to benchmark for hybrid search relevance?", "relevant": ["OPP-0041", "ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the code freeze that could affect the deal?", "relevant": ["ACT-0015", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What competitor is being evaluated alongside our vector DB solution?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Summarize the feedback from the product demo on 18 Oct.", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Who owns the Lumisk Retail account?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the main pain point the Head of Digital highlighted in the discovery call?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which meeting is scheduled for 28 Nov to discuss benchmark results?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What product are we proposing for semantic search?", "relevant": ["OPP-0041", "ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Any notes on the competitor\u2019s bundled offering?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When does the opportunity close?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the expected amount and stage of the proposal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions a 30% rate of irrelevant product hits?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What question did the prospect raise about catalog updates?", "relevant": ["ACT-0013", "EML-0041", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "List the next steps agreed across the engagement.", "relevant": ["ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "How many employees does the client have?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which region is the client located in?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the email address of the Head of Digital?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When was the discovery call held?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When was the product demo performed?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the probability percentage for winning the deal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record references a hybrid keyword\u2011plus\u2011vector search solution?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the contact phone number for the digital lead?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity notes the competitive threat of Kordon Cloud?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the title of the meeting about benchmarking hybrid relevance?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When does the benchmark meeting start and how long will it last?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What stage is the opportunity currently in?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the primary use case the client is interested in?", "relevant": ["ACC-004", "OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the client\u2019s peak season code freeze in December?", "relevant": ["ACT-0015", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Who attended the demo on 18 Oct?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the name of the person who sent the follow\u2011up email on 12 Nov?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What product is our competitor bundling with their hosting service?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record contains the agenda for the 28 Nov meeting?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the amount of the proposal in USD?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the next step to benchmark 1,000 real queries scheduled?", "relevant": ["ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What industry does the client operate in?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the specific concern about hourly catalogue changes?", "relevant": ["ACT-0013", "EML-0041", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Give me the account name for the commercial retailer in APAC\u2011West.", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the probability of closing the deal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the name of the head of digital at the retail account?", "relevant": ["ACT-0012", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the proposal expected to close?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the exact close date for the opportunity?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity notes the risk due to a code freeze?", "relevant": ["ACT-0015"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the contact email used for the follow\u2011up on the storefront pilot?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the size of the team we\u2019re selling to?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record includes the phrase \u2018benchmark hybrid search relevance on 1,000 real queries\u2019?", "relevant": ["OPP-0041", "ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the competitor\u2019s name that also offers search capabilities?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the product we\u2019re positioning for semantic product search?", "relevant": ["OPP-0041", "ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When did the discovery call take place?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the main issue with the current search experience?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions a 45\u2011minute meeting duration?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What stage and amount are listed for the proposal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the region code for the client\u2019s location?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which note records the competitor\u2019s bundled search with e\u2011commerce hosting?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the next action to run the benchmark?", "relevant": ["ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the probability percentage for closing the deal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Who is the owner of the Lumisk Retail account?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the account\u2019s employee count?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the subject line of the email sent on 12 Nov?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the agenda for the upcoming meeting on 28 Nov?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record includes the phrase \u2018hybrid keyword plus vector search\u2019?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the main risk highlighted for the deal timeline?", "relevant": ["ACT-0015", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the contact\u2019s phone number?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the benchmark meeting scheduled to start?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What stage is the opportunity currently in?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the competitor Kordon Cloud bundling search with hosting?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the client\u2019s primary use case for our solution?", "relevant": ["ACC-004", "OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity notes that hybrid search fixed most failed queries?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the email address of the person who raised the index\u2011update question?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When does the client\u2019s peak season code freeze begin?", "relevant": ["ACT-0015", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the amount and currency of the proposal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record includes a 30% irrelevant search rate statistic?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the name of the product we\u2019re proposing (Orbitra Vector DB)?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which note mentions the competitive evaluation of Kordon Cloud?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the next step agreed in the November 10 note?", "relevant": ["ACT-0015"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the date of the discovery call with Rohan Mehta?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When was the demo that showed hybrid search improvements?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the city and region for the retail account?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the probability of closing the opportunity as a percentage?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the need for index updates when the catalogue changes hourly?", "relevant": ["ACT-0013", "EML-0041", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the title of the meeting that will review progress on the storefront project?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity captured the risk of a code freeze in December?", "relevant": ["ACT-0015"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the name of the head of digital at the client?", "relevant": ["ACT-0012", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the proposal expected to close (date)?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record contains the phrase \u2018benchmark hybrid search relevance on 1,000 real queries\u2019?", "relevant": ["OPP-0041", "ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the email subject line for the follow\u2011up on the storefront pilot?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which note records the competitive threat of Kordon Cloud bundling search with hosting?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the size of the opportunity in USD?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the account\u2019s industry as commercial retail?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the stage of the opportunity (proposal)?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the meeting scheduled to start (date and time)?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the main use case the client wants to address?", "relevant": ["ACC-004", "OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions a 45\u2011minute duration for a meeting?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the probability (percentage) that the deal will close?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity includes a note about the competitor bundling search with e\u2011commerce hosting?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the contact\u2019s full name and role?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the code freeze that could impact the rollout?", "relevant": ["ACT-0015", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the amount of the opportunity in US dollars?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record lists the account\u2019s owner?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the email address used for the follow\u2011up on 12 Nov?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When does the benchmark meeting take place?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the main pain point reported in the discovery call?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which note mentions the risk due to peak season code freeze?", "relevant": ["ACT-0015"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What product are we positioning for semantic product search?", "relevant": ["OPP-0041", "ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record includes the phrase \u2018hourly catalogue changes\u2019?", "relevant": ["ACT-0013", "EML-0041", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the contact phone number for the head of digital?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity captured the feedback that hybrid search fixed most failed queries?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the city where the client is based?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record shows the opportunity close date?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the next step agreed upon in the November 28 meeting?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the competitor Kordon Cloud?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When was the email about the storefront pilot sent?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the region code for the client\u2019s location (APAC\u2011West)?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity notes the benchmark of 1,000 real queries as next step?", "relevant": ["ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the amount and stage of the proposal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the opportunity expected to close (date)?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the probability percentage of winning the deal?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record contains the phrase \u2018semantic product search and recommendations\u2019?", "relevant": ["ACC-004", "OPP-0041", "ACT-0012", "ACT-0013", "EML-0041", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the name of the product we\u2019re offering for semantic search?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which note mentions the competitor\u2019s bundled offering with hosting?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the size of the client\u2019s workforce?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity recorded the discovery call date?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the email subject for the follow\u2011up on the storefront pilot?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the benchmark meeting scheduled (date and time)?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the 30% irrelevant search issue?", "relevant": ["ACT-0012"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the owner\u2019s name for the Lumisk Retail account?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When is the code freeze that could affect implementation?", "relevant": ["ACT-0015", "EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record includes the next step to benchmark hybrid relevance on 1,000 queries?", "relevant": ["ACT-0015", "MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the amount of the opportunity in USD?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which note references the competitor Kordon Cloud\u2019s hosting bundle?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When was the demo that showed hybrid search improvements held?", "relevant": ["ACT-0013"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the contact email for the head of digital?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which record mentions the client\u2019s industry as Commercial Retail?", "relevant": ["ACC-004"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the probability of closing the opportunity (percentage)?", "relevant": ["OPP-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "When does the benchmark meeting end (45 minutes after start)?", "relevant": ["MTG-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "Which activity notes the risk of a December code freeze?", "relevant": ["ACT-0015"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What product is our competitor offering as part of a bundle?", "relevant": ["ACT-0014"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the name of the head of digital who sent the email?", "relevant": ["EML-0041"], "source": "llm", "bundle": "ACC-004"}
+{"question": "What is the deal size and close date for the Quarnell Bank opportunity?", "relevant": ["OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "How likely is the negotiation to close for the Chennai banking account?", "relevant": ["OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Who is the contact person for the customer service agent assistant project?", "relevant": ["ACC-005", "EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Name the chief digital officer at the strategic bank in APAC\u2011South.", "relevant": ["ACC-005", "EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "When was the discovery call with the CDO held?", "relevant": ["ACT-0016"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What was the main pain point mentioned in the Oct\u202f7 call?", "relevant": ["ACT-0016"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What feedback did the demo on Oct\u202f19 receive regarding regulator\u2011style questions?", "relevant": ["ACT-0017"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Did the product demo show that guardrails can answer policy\u2011compliant queries?", "relevant": ["ACT-0017"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Which competitor is the bank also evaluating?", "relevant": ["ACT-0018", "OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What other vendor is the client looking at for GPU cloud services?", "relevant": ["ACT-0018"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What risk was flagged about model\u2011risk management sign\u2011off?", "relevant": ["ACT-0019", "EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Why does the model risk team need explainability evidence?", "relevant": ["ACT-0019", "EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What discount can be offered if the contract is signed before year\u2011end?", "relevant": ["ACT-0048"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Is there an approved discount percentage for this deal?", "relevant": ["ACT-0048"], "source": "llm", "bundle": "ACC-005"}
+{"question": "When is the meeting to share the evaluation report template scheduled?", "relevant": ["MTG-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the agenda for the 29\u202fNov meeting with the bank?", "relevant": ["MTG-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What products are included in the Quarnell Bank opportunity?", "relevant": ["OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Which Orbitra solutions are being pitched to the banking client?", "relevant": ["OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "How many employees does the strategic banking account have?", "relevant": ["ACC-005"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the employee count for the Chennai bank?", "relevant": ["ACC-005"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Can responses be limited to approved policy documents only?", "relevant": ["ACT-0017", "EML-0051", "MTG-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Is it possible to restrict the assistant to use only vetted policies?", "relevant": ["ACT-0017", "EML-0051", "MTG-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the probability of winning the negotiation?", "relevant": ["OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What stage is the deal currently in?", "relevant": ["OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the next step after the upcoming meeting?", "relevant": ["ACT-0019", "MTG-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What action did the team agree on regarding the evaluation report?", "relevant": ["ACT-0019", "MTG-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the main concern Vidya raised in her email?", "relevant": ["EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Which issue did the CDO mention about policy\u2011restricted answers?", "relevant": ["EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "When was the email about the pilot sent?", "relevant": ["EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What date was the demo held for the banking client?", "relevant": ["ACT-0017"], "source": "llm", "bundle": "ACC-005"}
+{"question": "How long is the call handling time that the bank wants to improve?", "relevant": ["ACT-0016"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the average call handling time the client reported?", "relevant": ["ACT-0016"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Which product helps with vector storage for the bank\u2019s use case?", "relevant": ["OPP-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the name of the GPU cloud competitor mentioned?", "relevant": ["ACT-0018"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What region is the strategic banking account located in?", "relevant": ["ACC-005"], "source": "llm", "bundle": "ACC-005"}
+{"question": "Which city hosts the bank that wants a policy\u2011retrieval assistant?", "relevant": ["ACC-005"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the email address of the chief digital officer?", "relevant": ["EML-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "How can I see the meeting details for the evaluation report discussion?", "relevant": ["MTG-0051"], "source": "llm", "bundle": "ACC-005"}
+{"question": "What is the account ID for the energy company in Kochi?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Show me the opportunity details for the turbine maintenance knowledge assistant", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When is the technical validation stage expected to close for the knowledge assistant deal?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Who is the director we talked to about asset reliability?", "relevant": ["ACT-0020", "EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Give me the notes from the call on October 8, 2026", "relevant": ["ACT-0020"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What pain point did the field engineers mention during discovery?", "relevant": ["ACT-0020"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What feedback did the engineers give after the demo on October 20?", "relevant": ["ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which product demo asked for manual page citations in answers?", "relevant": ["ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "How are we handling the risk of intermittent connectivity at offshore sites?", "relevant": ["ACT-0022", "EML-0061", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "List the next step agreed on November 12 regarding edge deployment", "relevant": ["ACT-0022"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What email did Deepak Nair send about keeping answers up\u2011to\u2011date?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Show me the meeting scheduled for November 25 to scope offline edge deployment", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What agenda items are in the upcoming offshore edge deployment meeting?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which products are included in the knowledge assistant opportunity?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the deal amount and probability for the turbine knowledge assistant?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "How many employees does the APAC\u2011South energy client have?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What region is the enterprise energy account located in?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Who owns the account for the large energy firm in Kochi?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When did we have the discovery call with the asset reliability director?", "relevant": ["ACT-0020"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the main use case the client wants for the assistant?", "relevant": ["ACT-0020", "ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which offshore sites need an offline\u2011capable edge solution?", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What stage is the opportunity currently in?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Do we have any competitors recorded for this deal?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the contact phone number for Deepak Nair?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Give me the email subject line Deepak used about the pilot", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the timeline for the next step after the November 25 meeting?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "How many offshore sites are we planning to deploy edge devices to?", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which product helps with edge appliance functionality?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What database product is part of the knowledge assistant solution?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Any recorded competitor for this knowledge assistant opportunity?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the probability percentage for closing the deal?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When is the close date for the turbine maintenance assistant opportunity?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the exact phrase the client used to describe their manual search issue?", "relevant": ["ACT-0020"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What follow\u2011up action did we agree on after the November 12 note?", "relevant": ["ACT-0022"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions the need for answers to stay current with manual revisions?", "relevant": ["ACT-0021", "EML-0061", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the date of the demo session held in October?", "relevant": ["ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "List all records that reference offline\u2011capable edge deployment", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061", "EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the email address of the director we are dealing with?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Summarize the risk noted on November 12", "relevant": ["ACT-0022"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the meeting ID for the November 25 session?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which account is looking for a knowledge assistant for field engineers?", "relevant": ["ACC-006", "OPP-0061", "ACT-0020", "ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Give me a quick list of all record IDs related to the offshore edge scope", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061", "EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What city is the enterprise energy client based in?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "How many pages are in the manuals engineers are searching?", "relevant": ["ACT-0020"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the next step after the upcoming meeting?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record shows the probability of the deal?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When did Deepak send his follow\u2011up email about manual revisions?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the main concern mentioned in the email from Deepak?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What stage is the opportunity in right now?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which product helps with vector search capabilities?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Give me the account size in employee count", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the name of the director of asset reliability?", "relevant": ["ACT-0020", "EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When is the next scheduled meeting about the edge deployment?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the opportunity amount in USD?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record contains the phrase 'offline\u2011capable edge deployment'?", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the region code for the account's location?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Any competitor listed for this sales opportunity?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the primary use case for the knowledge assistant?", "relevant": ["ACT-0020", "ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When was the discovery call held?", "relevant": ["ACT-0020"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the contact email for the asset reliability director?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions a 45\u2011minute meeting duration?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the probability of winning the technical validation stage?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "List all IDs that talk about manual page citations", "relevant": ["ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the next action after the demo feedback?", "relevant": ["ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record includes the phrase 'intermittent connectivity'?", "relevant": ["ACT-0022", "EML-0061", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When is the close date for the knowledge assistant opportunity?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the account's industry?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which product is an edge appliance in this deal?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the meeting agenda for the November 25 session?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Give me the phone number of Deepak Nair", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the stage name for the current opportunity?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record references the need to keep answers up to date?", "relevant": ["ACT-0021", "EML-0061", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the amount of the opportunity in local currency?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which account is based in APAC\u2011South?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When was the meeting to scope edge deployment scheduled?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the contact's title at the energy company?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the main risk highlighted for the offshore sites?", "relevant": ["ACT-0022", "EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record contains the phrase 'knowledge assistant for field engineers'", "relevant": ["ACC-006", "OPP-0061", "ACT-0020", "ACT-0021", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the size of the opportunity in dollars?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record shows the meeting start time with timezone offset?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the name of the energy client in Kochi?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What product provides vector database capabilities?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions 'Scope an offline\u2011capable edge deployment for two offshore sites'?", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When did Deepak send his email about the pilot?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the probability percentage for the technical validation stage?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record includes the phrase 'field engineers search 600 page maintenance manuals'", "relevant": ["ACT-0020"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the next step after the November 25 meeting?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record lists the opportunity stage as Technical Validation?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the name of the director we spoke with on October 8?", "relevant": ["ACT-0020", "EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record contains the meeting duration of 45 minutes?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the amount of the deal in USD?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions the product Orbitra Edge Appliance?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the date of the next step to scope the edge deployment?", "relevant": ["ACT-0022"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record references the phrase 'knowledge assistant pilot'?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the email subject line for Deepak's follow\u2011up?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record contains the phrase 'offline\u2011capable edge deployment' and a date in November?", "relevant": ["ACT-0022", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the industry of the client in Kochi?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions the client has about 9,800 employees?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the next meeting agenda item about manual updates?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record lists the phone number +91 44 5550 161?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the stage name for the current sales process?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions 'technical validation' as the stage?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the probability of closing the deal as noted?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record includes the phrase 'field engineers doing turbine maintenance'?", "relevant": ["ACC-006", "OPP-0061", "ACT-0020", "ACT-0021", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the contact's email address for the asset reliability director?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions a 45\u2011minute meeting starting at 14:30 IST?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the name of the product that provides vector search for the knowledge assistant?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record includes the phrase 'scope an offline\u2011capable edge deployment' as a next step?", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "When is the close date for the knowledge assistant opportunity?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions the term 'pilot' in the email subject?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the region code for the account's location (APAC\u2011South)?", "relevant": ["ACC-006"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record lists the opportunity amount as 360,000 USD?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the main use case for the knowledge assistant as described by the client?", "relevant": ["ACT-0020", "ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record contains the phrase 'intermittent connectivity at offshore sites'?", "relevant": ["ACT-0022", "EML-0061", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the next action after the demo feedback regarding manual updates?", "relevant": ["ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions the need for answers to cite exact manual pages?", "relevant": ["ACT-0021"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the date of the meeting to review progress on the knowledge assistant?", "relevant": ["MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record includes the phrase 'knowledge assistant for field engineers doing turbine maintenance' without naming the account?", "relevant": ["ACT-0020", "ACT-0021", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the contact's phone number for Deepak Nair?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record shows the probability as 40 percent?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the stage of the opportunity called?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record mentions the product Orbitra Vector DB?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the next step agreed on in the November 12 note?", "relevant": ["ACT-0022"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record contains the phrase 'offline\u2011capable edge deployment for two offshore sites'?", "relevant": ["OPP-0061", "ACT-0022", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the email address used by Deepak Nair?", "relevant": ["EML-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "Which record references the need to keep answers current when manuals are revised?", "relevant": ["ACT-0021", "EML-0061", "MTG-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the amount of the opportunity in USD (rounded)?", "relevant": ["OPP-0061"], "source": "llm", "bundle": "ACC-006"}
+{"question": "What is the account ID for the Hyderabad utilities customer?", "relevant": ["ACC-007"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Show me the opportunity details for the churn prediction deal", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "When is the qualification stage expected to close for the churn retention offer?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Which product are we pitching to the utility company in APAC\u2011South?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Who is the current economic buyer for the Orbitra platform at the utility client?", "relevant": ["OPP-0071", "ACT-0026", "EML-0071", "MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "List the competitors mentioned for the churn prediction opportunity", "relevant": ["OPP-0071", "ACT-0025"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What was the main pain point discussed in the 9 Oct discovery call?", "relevant": ["ACT-0023"], "source": "llm", "bundle": "ACC-007"}
+{"question": "How high was residential churn last year for the utility client?", "relevant": ["ACT-0023"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Who attended the discovery call on 2026\u201110\u201109?", "relevant": ["ACT-0023"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What feedback did the analytics team give after the demo on 21 Oct?", "relevant": ["ACT-0024"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Which feature impressed the utility\u2019s analytics team during the demo?", "relevant": ["ACT-0024"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Who is now responsible for the budget after the re\u2011org?", "relevant": ["ACT-0024", "ACT-0026", "EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Is Brightlake AI being evaluated alongside our solution?", "relevant": ["ACT-0025", "ACT-0026"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What note mentions that Brightlake AI already runs dashboards for the client?", "relevant": ["ACT-0025"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Why has the deal stalled according to the latest note?", "relevant": ["ACT-0026"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What next step is agreed for re\u2011engaging the new economic buyer?", "relevant": ["ACT-0026", "MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Summarize the email from Sanjay Reddy about budget ownership", "relevant": ["EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What contact details did Sanjay provide in his last email?", "relevant": ["EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "When is the meeting to re\u2011engage the new economic buyer scheduled?", "relevant": ["MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "How long is the executive briefing meeting on 26 Nov?", "relevant": ["MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Which account has about 4,300 employees and is located in Hyderabad?", "relevant": ["ACC-007"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Give me the owner name for the Hyderabad utilities account", "relevant": ["ACC-007"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What stage is the churn prediction opportunity currently in?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the probability percentage for closing the churn retention deal?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "How much revenue are we targeting with the churn prediction project?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the close date for the churn prediction opportunity?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Which activity notes the budget question after the reorganisation?", "relevant": ["ACT-0024", "ACT-0026", "EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the main concern expressed by the customer in the latest communications?", "relevant": ["ACT-0026", "EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Find all records that mention a new economic buyer", "relevant": ["ACT-0026", "EML-0071", "MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Show me any notes about deal risk for the utility client", "relevant": ["ACT-0026"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Which record contains the phrase 're\u2011engage the new economic buyer'?", "relevant": ["ACT-0026", "MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What industry does the account belong to?", "relevant": ["ACC-007"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Which product is highlighted in the opportunity for the churn project?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "List all activities that took place in October 2026 for this client", "relevant": ["ACT-0023", "ACT-0024"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the phone number of the analytics lead?", "relevant": ["EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Any competitor named in the notes for this account?", "relevant": ["ACT-0025"], "source": "llm", "bundle": "ACC-007"}
+{"question": "When was the last email from Sanjay Reddy sent?", "relevant": ["EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the agenda for the upcoming meeting on 26 Nov?", "relevant": ["MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Which record mentions a GPU\u2011accelerated training benefit?", "relevant": ["ACT-0024"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the probability of winning the churn prediction deal?", "relevant": ["OPP-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Who is the Customer Analytics Lead for the utility account?", "relevant": ["ACT-0023", "EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the email address of the analytics lead?", "relevant": ["EML-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "Give me the timeline of the next steps for this opportunity", "relevant": ["OPP-0071", "ACT-0026", "MTG-0071"], "source": "llm", "bundle": "ACC-007"}
+{"question": "What is the deal value and close date for the Skyrune Airlines customer service copilot?", "relevant": ["OPP-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "When is the proposal stage expected to close for the rebooking copilot opportunity?", "relevant": ["OPP-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "How much are we proposing for the Orbitra platform and Guard for the airline?", "relevant": ["OPP-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Who owns the Skyrune Airlines account and how many staff do they have?", "relevant": ["ACC-008"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Give me the account details for the strategic aviation client in Copenhagen.", "relevant": ["ACC-008"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which contact at Skyrune Airlines is the VP of Customer Experience?", "relevant": ["ACT-0027", "EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Who should I follow up with about the data processing agreement?", "relevant": ["ACT-0030", "MTG-0081", "EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "When is the meeting to present the DPA to the DPO scheduled?", "relevant": ["MTG-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What was the main pain point mentioned in the discovery call?", "relevant": ["ACT-0027"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Why are rebooking queues a problem for the airline during storms?", "relevant": ["ACT-0027"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What feedback did the agents give after the product demo?", "relevant": ["ACT-0028"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Did the demo team mention anything about EU\u2011only hosting?", "relevant": ["ACT-0028", "EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Is the copilot able to run in a European\u2011only region?", "relevant": ["ACT-0028", "EML-0081", "MTG-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What competitor is Skyrune also looking at?", "relevant": ["ACT-0029", "OPP-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which rival cloud service hosts their current contact centre?", "relevant": ["ACT-0029"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What discount has the deal desk approved for this multi\u2011year contract?", "relevant": ["ACT-0049"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What pricing concession are we giving the airline?", "relevant": ["ACT-0049"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What GDPR risk have we identified for this deal?", "relevant": ["ACT-0030", "EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which record notes a GDPR review of passenger data?", "relevant": ["ACT-0030", "EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "When was the discovery call with Mads Holm?", "relevant": ["ACT-0027"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Date of the product demo for the rebooking copilot?", "relevant": ["ACT-0028"], "source": "llm", "bundle": "ACC-008"}
+{"question": "When did we receive the note about Kordon Cloud evaluation?", "relevant": ["ACT-0029"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What is the agenda of the November 27 meeting?", "relevant": ["MTG-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which activity logs mention the need to present the DPA?", "relevant": ["ACT-0030", "MTG-0081", "EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What stage is the Skyrune opportunity currently in?", "relevant": ["OPP-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What is the probability percentage for closing the airline deal?", "relevant": ["OPP-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which record contains the email from Mads Holm about EU\u2011only hosting?", "relevant": ["EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What phone number did the VP of Customer Experience provide?", "relevant": ["EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which activity mentions a 45\u2011minute rebooking queue?", "relevant": ["ACT-0027"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What region is the airline based in?", "relevant": ["ACC-008"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which record shows the account is in EMEA\u2011North?", "relevant": ["ACC-008"], "source": "llm", "bundle": "ACC-008"}
+{"question": "List all records that reference the Orbitra Inference Platform.", "relevant": ["OPP-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Which note talks about a competitive threat from Kordon Cloud?", "relevant": ["ACT-0029"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What is the next step after the demo according to the notes?", "relevant": ["ACT-0028", "MTG-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "When is the next action to present the DPA to the DPO?", "relevant": ["ACT-0030", "MTG-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "How many employees does Skyrune Airlines have?", "relevant": ["ACC-008"], "source": "llm", "bundle": "ACC-008"}
+{"question": "Give me the email subject line for the November 16 message from Mads Holm.", "relevant": ["EML-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What is the meeting ID for the data processing agreement session?", "relevant": ["MTG-0081"], "source": "llm", "bundle": "ACC-008"}
+{"question": "What is the account ID for the Stockholm telecom client?", "relevant": ["ACC-009"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Who owns the Feldspire Telecom account?", "relevant": ["ACC-009"], "source": "llm", "bundle": "ACC-009"}
+{"question": "How many employees does the EMEA\u2011North telecom customer have?", "relevant": ["ACC-009"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What stage is the alarm\u2011triage deal in and what is its value?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "When is the close date for the network operations agent opportunity?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What products are we proposing for the alarm\u2011triage solution?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Who are we competing against for this deal?", "relevant": ["OPP-0091", "ACT-0033"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the probability percentage for the technical validation stage?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "When was the discovery call with the head of network automation?", "relevant": ["ACT-0031"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What pain point did Erik Lindqvist mention in the call?", "relevant": ["ACT-0031"], "source": "llm", "bundle": "ACC-009"}
+{"question": "How many alarms does the NOC staff handle daily?", "relevant": ["ACT-0031"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What feedback did the prospect give after the demo on Oct\u202f23?", "relevant": ["ACT-0032"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Did the demo show any reduction in duplicate tickets?", "relevant": ["ACT-0032"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What open question remains after the product demo?", "relevant": ["ACT-0032"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What competitor\u2019s cheaper GPU offer are they evaluating?", "relevant": ["ACT-0033"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Is Pyxel Compute mentioned as a rival in any notes?", "relevant": ["ACT-0033", "OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the biggest risk noted for the pilot?", "relevant": ["ACT-0034"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What next step was agreed to regarding data access?", "relevant": ["ACT-0034", "MTG-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "When is the meeting to agree the data access plan?", "relevant": ["MTG-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What agenda items are set for the 28\u2011Nov meeting?", "relevant": ["MTG-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "How long is the data\u2011access planning meeting scheduled for?", "relevant": ["MTG-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What did Erik email about on 17\u2011Nov?", "relevant": ["EML-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Which concern does the prospect have about the agent making changes?", "relevant": ["EML-0091", "ACT-0032"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the contact phone number for the head of network automation?", "relevant": ["EML-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Do we have a written data\u2011access plan yet?", "relevant": ["ACT-0034", "MTG-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the probability of winning the technical validation stage?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Which product includes a vector database?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the email subject line from Erik on Nov\u202f17?", "relevant": ["EML-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "How many alarms per day are overwhelming the NOC staff?", "relevant": ["ACT-0031"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the name of the person we spoke with about network automation?", "relevant": ["ACT-0031", "EML-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Which region does the telecom account belong to?", "relevant": ["ACC-009"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What industry is Feldspire Telecom in?", "relevant": ["ACC-009"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the next action for the alarm\u2011triage pilot?", "relevant": ["ACT-0034", "MTG-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Any notes on competitor pricing?", "relevant": ["ACT-0033"], "source": "llm", "bundle": "ACC-009"}
+{"question": "When was the demo that showed reduced duplicate tickets?", "relevant": ["ACT-0032"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What stage is the opportunity currently in?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Who should we contact to finalize data lake access?", "relevant": ["ACT-0034", "MTG-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the deal amount in USD?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the name of the product platform we\u2019re selling?", "relevant": ["OPP-0091"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Any open questions from the prospect after the demo?", "relevant": ["ACT-0032"], "source": "llm", "bundle": "ACC-009"}
+{"question": "Summarize the risk that could block the pilot.", "relevant": ["ACT-0034"], "source": "llm", "bundle": "ACC-009"}
+{"question": "What is the account ID and basic profile for the insurance client in Oslo?", "relevant": ["ACC-010"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Show me the contact owner and employee count for the Oslo\u2011based enterprise insurer.", "relevant": ["ACC-010"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which opportunity is for document triage and fraud detection with a $280k value?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Give me the stage, amount and close date of the claims automation deal.", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "When is the next formal quote submission deadline for the procurement portal?", "relevant": ["ACT-0037", "MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What next step is recorded for the deal that needs three vendor quotes?", "relevant": ["ACT-0037", "MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Who is the claims transformation lead we spoke with on 12 Oct?", "relevant": ["ACT-0035"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What pain point did Henrik Dahl mention about claims intake time?", "relevant": ["ACT-0035"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What feedback did the prospect give after the demo on 24 Oct?", "relevant": ["ACT-0036"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What open question did the customer raise about accuracy guarantees?", "relevant": ["ACT-0036", "EML-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What did Henrik email on 18 Nov regarding the pilot?", "relevant": ["EML-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which product names were listed in the proposal for the claims solution?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the probability percentage for the current proposal?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "When is the meeting to submit the formal quote scheduled?", "relevant": ["MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What agenda items are planned for the 29 Nov quote meeting?", "relevant": ["MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "List all records that mention a requirement for three vendor quotes.", "relevant": ["ACT-0037", "EML-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which record contains the phone number of the claims lead?", "relevant": ["EML-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the email address of the claims transformation lead?", "relevant": ["EML-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "How many employees does the EMEA\u2011North insurer have?", "relevant": ["ACC-010"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which account is owned by Elena Varga?", "relevant": ["ACC-010"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What stage is the opportunity currently in?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "When was the discovery call held with the claims lead?", "relevant": ["ACT-0035"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What was discussed in the demo regarding photographed claim forms?", "relevant": ["ACT-0036"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the main concern the prospect has about procurement?", "relevant": ["ACT-0037", "EML-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the probability of winning the proposal?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which record notes the close date of the deal?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Give me the full subject line of the email sent on 18 Nov.", "relevant": ["EML-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the duration of the quote\u2011submission meeting?", "relevant": ["MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which record mentions the product Orbitra Guard?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the name of the product that handles document AI?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the average time currently taken for claims intake?", "relevant": ["ACT-0035"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Who is the sales rep responsible for this account?", "relevant": ["ACC-010"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What city is the insurance company headquartered in?", "relevant": ["ACC-010"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Any competitor listed for this opportunity?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the next action after the meeting on 29 Nov?", "relevant": ["MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which record captures the note about deal risk?", "relevant": ["ACT-0037"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the exact time the quote meeting starts (UTC)?", "relevant": ["MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What stage and amount are tied to the claims document triage proposal?", "relevant": ["OPP-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "Which record includes the phrase 'claims document triage and fraud signals'?", "relevant": ["ACC-010", "OPP-0101", "ACT-0035", "ACT-0036", "ACT-0037", "EML-0101", "MTG-0101"], "source": "llm", "bundle": "ACC-010"}
+{"question": "What is the name of the strategic pharma account located in Boston?", "relevant": ["ACC-011"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Who owns the Halvecrest Pharma account?", "relevant": ["ACC-011"], "source": "llm", "bundle": "ACC-011"}
+{"question": "How many employees does the Boston\u2011based pharmaceutical client have?", "relevant": ["ACC-011"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What stage is the discovery opportunity for the research literature retrieval deal?", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What is the potential revenue for the literature\u2011and\u2011lab\u2011report retrieval project?", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "When is the expected close date for the $700k opportunity?", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Which products are being pitched for the retrieval use case?", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Who is our main competitor on this deal?", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What next action was recorded after the discovery call with the research informatics lead?", "relevant": ["ACT-0038", "ACT-0041"], "source": "llm", "bundle": "ACC-011"}
+{"question": "When did we have the discovery call with Grace Whitman?", "relevant": ["ACT-0038"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What pain point did the head of research informatics mention during the call?", "relevant": ["ACT-0038"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What feedback did the customer give after the product demo on Oct\u202f25?", "relevant": ["ACT-0039"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What open question did the researchers raise in the demo session?", "relevant": ["ACT-0039"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Did the client ask for citation details during the demo?", "relevant": ["ACT-0039"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What competitor is also being evaluated by the pharma client?", "relevant": ["ACT-0040", "OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What pilot is the rival company running?", "relevant": ["ACT-0040"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What regulatory concern did the client note as a deal risk?", "relevant": ["ACT-0041"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Which team should we arrange a validation session with?", "relevant": ["ACT-0041", "MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What is the email address of the head of research informatics?", "relevant": ["EML-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "When did Grace Whitman email about the confidential results question?", "relevant": ["EML-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What is the main worry about unpublished results mentioned in the email?", "relevant": ["EML-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What phone number is listed for the Halvecrest contact?", "relevant": ["EML-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "When is the meeting to discuss the validation session scheduled?", "relevant": ["MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "How long is the validation\u2011session meeting on Nov\u202f25?", "relevant": ["MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What agenda items are set for the upcoming session with the pharma client?", "relevant": ["MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Which account is looking for a system that can retrieve research literature and lab reports?", "relevant": ["ACC-011", "OPP-0111", "ACT-0038", "ACT-0039", "MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Boston pharma client wants help with literature review turnaround time", "relevant": ["ACT-0038"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What does the client need to handle confidential unpublished research data?", "relevant": ["ACT-0039", "EML-0111", "MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Show me all notes about Brightlake AI competition", "relevant": ["ACT-0040", "ACT-0041"], "source": "llm", "bundle": "ACC-011"}
+{"question": "List activities that mention a validation team", "relevant": ["ACT-0038", "ACT-0041", "MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What is the probability percentage for the current opportunity?", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Which product suite includes a vector database and inference platform?", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Find any record that references a discovery stage", "relevant": ["OPP-0111", "ACT-0038"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Give me the close\u2011date for the $700k deal", "relevant": ["OPP-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Any activity on 2026\u201110\u201113?", "relevant": ["ACT-0038"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Any demo activity in October 2026?", "relevant": ["ACT-0039"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What contact emailed on 2026\u201111\u201119?", "relevant": ["EML-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Which record mentions regulated research data rules?", "relevant": ["ACT-0041"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What is the next step listed across the records?", "relevant": ["OPP-0111", "ACT-0041", "MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Show all IDs that contain the phrase 'arrange a session'", "relevant": ["ACT-0041", "MTG-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What city and region is the pharma account based in?", "relevant": ["ACC-011"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Which account is owned by Jordan Blake?", "relevant": ["ACC-011"], "source": "llm", "bundle": "ACC-011"}
+{"question": "Give me the email subject line about the literature retrieval pilot", "relevant": ["EML-0111"], "source": "llm", "bundle": "ACC-011"}
+{"question": "What is the size of the Orbelle Semiconductors team?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "How many employees does the Austin\u2011based semiconductor customer have?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who owns the Orbelle account?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Give me the stage and close date for the chip\u2011design assistant deal.", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the projected revenue for the assistant over chip design documentation opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What probability did we assign to the qualification stage?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which products are we proposing to Orbelle for the documentation assistant?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who are we competing against for the semiconductor design assistant?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step listed for the opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When was the discovery call with the director of design methodology?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What pain point did Daniel Ortiz mention during the Oct\u202f14 call?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who did we speak to on the 2026\u201110\u201114 discovery call?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What feedback came out of the Oct\u202f26 product demo?", "relevant": ["ACT-0043"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What question did the engineers raise about document\u2011level access controls?", "relevant": ["ACT-0043"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Did the demo attendees want answers limited to their own project files?", "relevant": ["ACT-0043"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What competitive note did we add on Nov\u202f14 regarding Pyxel Compute?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Did Pyxel offer any free proof\u2011of\u2011concept credits?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What risk did we log on Nov\u202f18 about intellectual\u2011property restrictions?", "relevant": ["ACT-0045"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What was the agreed next step after the Nov\u202f18 note?", "relevant": ["ACT-0045"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Summarize Daniel Ortiz\u2019s email on Nov\u202f20 about the pilot.", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main concern Daniel expressed in his reply to the pilot session?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which contact details did Daniel provide in his email?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the meeting to propose an on\u2011premises architecture?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What agenda items are set for the on\u2011prem deployment meeting?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "How long is the on\u2011premises architecture meeting scheduled for?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What city is the enterprise semiconductor client located in?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which NA region does the Austin account belong to?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What industry does the account work in?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What stage is the qualification opportunity in?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What amount are we targeting for the chip design assistant sale?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who is the primary contact for the design methodology discussion?", "relevant": ["ACT-0042", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Any notes about IP controls for the design data?", "relevant": ["ACT-0045", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What competitor is mentioned for this deal?", "relevant": ["OPP-0121", "ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Do we have any open questions about retrieval index security?", "relevant": ["ACT-0043", "EML-0121", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step we need to present to the client?", "relevant": ["OPP-0121", "ACT-0045", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Any recent activity after the demo?", "relevant": ["ACT-0044", "ACT-0045", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When did we last speak with Daniel Ortiz?", "relevant": ["ACT-0042", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What product suite are we pitching for the assistant?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "List all record IDs that mention on\u2011premises deployment.", "relevant": ["OPP-0121", "ACT-0045", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the probability percentage for the current opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Any notes on free credits from a rival vendor?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the contact email for the design methodology director?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the next scheduled meeting with the semiconductor client?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main pain point the engineers are facing?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record logs the competitive threat from Pyxel Compute?", "relevant": ["OPP-0121", "ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the phone number for the lead at Orbelle?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the deadline for closing the deal?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "How many minutes is the on\u2011prem architecture meeting?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What date was the qualification stage entered?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the email subject line for Daniel\u2019s pilot follow\u2011up?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record contains the phrase \u2018design engineers lose hours\u2019?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next action after the Nov\u202f26 meeting?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which products are part of the Orbitra family?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What region does the client belong to in our territory map?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Any recent notes on IP restrictions for the design data?", "relevant": ["ACT-0045"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the status of the qualification opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who is the director of design methodology at the semiconductor firm?", "relevant": ["ACT-0042", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the scheduled date for the on\u2011premises proposal meeting?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record mentions \u2018Orbitra Vector DB\u2019?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main concern about document\u2011level access controls?", "relevant": ["ACT-0043", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When did the product demo take place?", "relevant": ["ACT-0043"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the account\u2019s abbreviation used in our system?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record logs the next step to propose on\u2011prem architecture?", "relevant": ["OPP-0121", "ACT-0045", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the probability of winning the qualification deal?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Any notes on how the retrieval index handles project\u2011specific documents?", "relevant": ["ACT-0043", "EML-0121", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the amount in USD for the chip design assistant opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the competitor offering free PoC credits?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When was the discovery call with the design methodology director?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the primary use case we are selling to the semiconductor client?", "relevant": ["OPP-0121", "ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the contact\u2019s phone number for follow\u2011up?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next meeting agenda for the on\u2011premises deployment discussion?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record contains the phrase \u2018strict intellectual property controls\u2019?", "relevant": ["ACT-0045", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the industry classification for the account?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the close date for the qualification stage?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the name of the product that provides inference capabilities?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record mentions the competitor \u2018Pyxel Compute\u2019?", "relevant": ["OPP-0121", "ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the email address of the design methodology director?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the next scheduled activity with Orbelle after the demo?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the city and region for the enterprise semiconductor account?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step after the discovery call?", "relevant": ["OPP-0121", "ACT-0045"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the amount of the opportunity in thousands?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record logs a note about a competitor\u2019s free credits?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the stage name for the current opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who is Jordan Blake?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main concern about IP for the chip design data?", "relevant": ["ACT-0045", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the scheduled start time for the on\u2011premises meeting in UTC?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record includes the phrase \u2018assist over chip design documentation\u2019?", "relevant": ["OPP-0121", "ACT-0042", "ACT-0043", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next action after the Nov\u202f26 meeting?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the probability percentage for the qualification opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Any notes on document\u2011level access control concerns?", "relevant": ["ACT-0043", "EML-0121", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the meeting to discuss the on\u2011prem architecture scheduled?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the name of the director we spoke to on Oct\u202f14?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which product line includes Vector DB?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the amount we are quoting for the Orbitra Guard?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main pain point for the design engineers?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the competitor's name that is also being evaluated?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When did we last log a note about IP risk?", "relevant": ["ACT-0045"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record references \u2018on\u2011premises deployment architecture\u2019?", "relevant": ["OPP-0121", "ACT-0045", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the email subject line for the pilot follow\u2011up?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who is the contact person for the chip design assistant pilot?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step listed in the opportunity details?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record mentions the close date of 2027\u201105\u201115?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the region code for the account in our system?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When did the demo occur for the semiconductor client?", "relevant": ["ACT-0043"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the amount of the opportunity in dollars?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record contains the phrase \u2018design engineers lose hours\u2019?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the competitor\u2019s offering that could affect our win chance?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the next activity after the demo?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main use case we are selling to this client?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who is the owner of the account in the CRM?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step we need to prepare for the on\u2011premises proposal?", "relevant": ["OPP-0121", "ACT-0045", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the probability that we will close the qualification opportunity?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the email address of the person who replied on Nov\u202f20?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record logs a note about strict IP controls?", "relevant": ["ACT-0045", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the scheduled time zone for the meeting on Nov\u202f26?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What product is the assistant built on for inference?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record mentions the phrase \u2018proposal on\u2011premises deployment architecture\u2019?", "relevant": ["OPP-0121", "ACT-0045", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the qualification opportunity expected to close?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the contact\u2019s phone number for follow\u2011up calls?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the name of the competitor offering free proof\u2011of\u2011concept credits?", "relevant": ["ACT-0044"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main security concern the client has about the retrieval index?", "relevant": ["ACT-0043", "EML-0121", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record contains the phrase \u2018Orbelle Semiconductors - Assistant over chip design documentation\u2019?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step after the meeting on Nov\u202f26?", "relevant": ["MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When is the next scheduled call with Daniel Ortiz?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the amount in USD for the Orbitra suite?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record includes the phrase \u2018strict intellectual property controls\u2019?", "relevant": ["ACT-0045", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the date of the discovery call with the design methodology director?", "relevant": ["ACT-0042"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record mentions the product \u2018Orbitra Guard\u2019?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step we need to take to move forward with the on\u2011prem proposal?", "relevant": ["OPP-0121", "ACT-0045", "MTG-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "When does the opportunity close according to the CRM?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Who is the director of design methodology at Orbelle?", "relevant": ["ACT-0042", "EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the region and city for the enterprise semiconductor client?", "relevant": ["ACC-012"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the probability percentage for the qualification stage?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the next step recorded after the Nov\u202f18 note?", "relevant": ["ACT-0045"], "source": "llm", "bundle": "ACC-012"}
+{"question": "Which record mentions \u2018Orbitra Inference Platform\u2019?", "relevant": ["OPP-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the email subject line for the pilot follow\u2011up from Daniel?", "relevant": ["EML-0121"], "source": "llm", "bundle": "ACC-012"}
+{"question": "What is the main purpose of Orbita Inference Platform?", "relevant": ["PRD-001:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "How does the inference service keep data inside a client\u2019s network?", "relevant": ["PRD-001:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "Can the model serving API work like OpenAI\u2019s?", "relevant": ["PRD-001:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "What latency can we expect for an 8\u2011billion\u2011parameter model?", "relevant": ["PRD-001:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "How does the system automatically add more model replicas when traffic spikes?", "relevant": ["PRD-001:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "Is batch processing supported for high\u2011throughput requests?", "relevant": ["PRD-001:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "Tell me about the vector database that handles embeddings and semantic search.", "relevant": ["PRD-002:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "How are keyword and vector similarity combined in a single query?", "relevant": ["PRD-002:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "Do we have fine\u2011grained access rules for document retrieval in the vector store?", "relevant": ["PRD-002:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "Can we filter search results by department or classification?", "relevant": ["PRD-002:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "How quickly does the vector index reflect new or updated documents?", "relevant": ["PRD-002:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "What is the refresh time for up\u2011serted embeddings?", "relevant": ["PRD-002:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "What does Orbitra Guard add to generative AI apps?", "relevant": ["PRD-003:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "How does the guard protect against leaking personal info?", "relevant": ["PRD-003:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "Can the system detect and block prompt\u2011injection attacks?", "relevant": ["PRD-003:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "Is there an audit log for guardrail decisions?", "relevant": ["PRD-003:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "Looking for on\u2011prem LLM serving that talks OpenAI\u2011style \u2013 which product?", "relevant": ["PRD-001:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "Need a secure AI model deployment that never sends data out of our datacenter. Options?", "relevant": ["PRD-001:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "Want fast response times for 8B models, under a few hundred ms. Which feature helps?", "relevant": ["PRD-001:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "Hybrid search for embeddings and keywords \u2013 which product covers that?", "relevant": ["PRD-002:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "Need role\u2011based access control on vector search results. Which doc?", "relevant": ["PRD-002:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "How often does the vector DB index get refreshed after an upsert?", "relevant": ["PRD-002:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "Looking for AI guardrails that redact emails and phone numbers before inference. Which solution?", "relevant": ["PRD-003:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "Need to stop prompt injection in retrieved documents \u2013 what do we use?", "relevant": ["PRD-003:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "What logs are kept when Guard blocks suspicious content?", "relevant": ["PRD-003:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "Can we run the inference platform in a private cloud?", "relevant": ["PRD-001:s1"], "source": "llm", "bundle": "products-a"}
+{"question": "Does the vector store support real\u2011time freshness for newly added docs?", "relevant": ["PRD-002:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "How does Orbitra Guard handle privacy for user inputs?", "relevant": ["PRD-003:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "What security features does the inference platform provide?", "relevant": ["PRD-001:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "Need a solution that auto\u2011scales model replicas based on queue depth. Which product?", "relevant": ["PRD-001:s2"], "source": "llm", "bundle": "products-a"}
+{"question": "Which product offers audit logging for both security and guardrail actions?", "relevant": ["PRD-001:s3", "PRD-003:s3"], "source": "llm", "bundle": "products-a"}
+{"question": "What\u2019s the basic overview of the rugged GPU server for factory vision tasks?", "relevant": ["PRD-004:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "Can you give me a quick summary of the Edge Appliance that runs computer\u2011vision models on site?", "relevant": ["PRD-004:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "What temperature range can the Edge Appliance operate in and does it have dust protection?", "relevant": ["PRD-004:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "Is the Edge device rated for harsh environments like 0\u201150\u202f\u00b0C and sealed against dust?", "relevant": ["PRD-004:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "How fast does the vision inference run on the edge hardware per frame?", "relevant": ["PRD-004:s3"], "source": "llm", "bundle": "products-b"}
+{"question": "Typical latency for image models on the on\u2011prem GPU box?", "relevant": ["PRD-004:s3"], "source": "llm", "bundle": "products-b"}
+{"question": "What does Orbitra Document AI do for scanned paperwork?", "relevant": ["PRD-005:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "Briefly, what capabilities does the document\u2011AI solution have for forms and invoices?", "relevant": ["PRD-005:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "How accurate is the field extraction on printed forms with the document AI tool?", "relevant": ["PRD-005:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "What extraction accuracy can we promise for printed documents versus handwritten notes?", "relevant": ["PRD-005:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "How should we position Orbitra against Kordon Cloud\u2019s hosted\u2011only model?", "relevant": ["PRD-006:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "What talking points emphasize private deployment and data residency versus Kordon?", "relevant": ["PRD-006:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "How do we compare Orbitra to Brightlake AI\u2019s limited regional hosting?", "relevant": ["PRD-006:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "What advantages do we have over Brightlake regarding audit trails and data residency?", "relevant": ["PRD-006:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "Why is Orbitra cheaper overall than Pyxel Compute despite GPU pricing?", "relevant": ["PRD-006:s3"], "source": "llm", "bundle": "products-b"}
+{"question": "How to sell the total cost benefit of Orbitra versus Pyxel\u2019s low\u2011price GPUs?", "relevant": ["PRD-006:s3"], "source": "llm", "bundle": "products-b"}
+{"question": "What discount levels can an AE approve on a deal?", "relevant": ["PRD-007:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "When does a sales manager need to sign off on a discount?", "relevant": ["PRD-007:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "Who must review a discount that\u2019s above 20\u202f%?", "relevant": ["PRD-007:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "Need the spec sheet for the edge appliance that works offline and syncs later.", "relevant": ["PRD-004:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "Looking for latency numbers for vision inference on the on\u2011prem server.", "relevant": ["PRD-004:s3"], "source": "llm", "bundle": "products-b"}
+{"question": "What\u2019s the edge box\u2019s environmental rating for dusty factories?", "relevant": ["PRD-004:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "Explain the document AI\u2019s handling of handwritten annotations.", "relevant": ["PRD-005:s2"], "source": "llm", "bundle": "products-b"}
+{"question": "How does the AI extract tables from bills of lading?", "relevant": ["PRD-005:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "Key differentiators vs. hosted\u2011only AI platforms like Kordon?", "relevant": ["PRD-006:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "How to stress data residency when a prospect worries about cloud compliance?", "relevant": ["PRD-006:s2", "PRD-006:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "What guardrails and support are included that make Orbitra\u2019s total cost lower than Pyxel?", "relevant": ["PRD-006:s3"], "source": "llm", "bundle": "products-b"}
+{"question": "Quick discount authority limits for a new deal \u2013 need numbers.", "relevant": ["PRD-007:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "Can I give a 15\u202f% discount without manager approval?", "relevant": ["PRD-007:s1"], "source": "llm", "bundle": "products-b"}
+{"question": "What\u2019s the latency goal per frame for vision models on the edge hardware?", "relevant": ["PRD-004:s3"], "source": "llm", "bundle": "products-b"}

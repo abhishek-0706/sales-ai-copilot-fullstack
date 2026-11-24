@@ -1,0 +1,1703 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Sales AI Copilot API",
+    "description": "Account briefs, meeting prep, next-best-actions and Q&A over synthetic CRM data, with role/territory access control, PII redaction, guardrails and citations.",
+    "version": "0.1.0"
+  },
+  "paths": {
+    "/api/health": {
+      "get": {
+        "tags": [
+          "ops"
+        ],
+        "summary": "Health",
+        "operationId": "health_api_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Health"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/users": {
+      "get": {
+        "tags": [
+          "identity"
+        ],
+        "summary": "Users",
+        "operationId": "users_api_users_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/User"
+                  },
+                  "type": "array",
+                  "title": "Response Users Api Users Get"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/me": {
+      "get": {
+        "tags": [
+          "identity"
+        ],
+        "summary": "Me",
+        "operationId": "me_api_me_get",
+        "parameters": [
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Me"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/accounts": {
+      "get": {
+        "tags": [
+          "accounts"
+        ],
+        "summary": "Accounts",
+        "operationId": "accounts_api_accounts_get",
+        "parameters": [
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/AccountListItem"
+                  },
+                  "title": "Response Accounts Api Accounts Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/accounts/{account_id}": {
+      "get": {
+        "tags": [
+          "accounts"
+        ],
+        "summary": "Account",
+        "operationId": "account_api_accounts__account_id__get",
+        "parameters": [
+          {
+            "name": "account_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Account Id"
+            }
+          },
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AccountSummary"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/accounts/{account_id}/brief": {
+      "post": {
+        "tags": [
+          "copilot"
+        ],
+        "summary": "Brief",
+        "operationId": "brief_api_accounts__account_id__brief_post",
+        "parameters": [
+          {
+            "name": "account_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Account Id"
+            }
+          },
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BriefResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/accounts/{account_id}/meeting-prep": {
+      "post": {
+        "tags": [
+          "copilot"
+        ],
+        "summary": "Meeting Prep",
+        "operationId": "meeting_prep_api_accounts__account_id__meeting_prep_post",
+        "parameters": [
+          {
+            "name": "account_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Account Id"
+            }
+          },
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "anyOf": [
+                  {
+                    "$ref": "#/components/schemas/MeetingPrepRequest"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "title": "Body"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MeetingPrepResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/accounts/{account_id}/next-best-actions": {
+      "post": {
+        "tags": [
+          "copilot"
+        ],
+        "summary": "Next Best Actions",
+        "operationId": "next_best_actions_api_accounts__account_id__next_best_actions_post",
+        "parameters": [
+          {
+            "name": "account_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Account Id"
+            }
+          },
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NextBestActionsResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ask": {
+      "post": {
+        "tags": [
+          "copilot"
+        ],
+        "summary": "Ask",
+        "operationId": "ask_api_ask_post",
+        "parameters": [
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AskRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AskResponse"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/sources/{source_id}": {
+      "get": {
+        "tags": [
+          "copilot"
+        ],
+        "summary": "Source",
+        "operationId": "source_api_sources__source_id__get",
+        "parameters": [
+          {
+            "name": "source_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Source Id"
+            }
+          },
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SourceRecord"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/audit": {
+      "get": {
+        "tags": [
+          "ops"
+        ],
+        "summary": "Audit",
+        "operationId": "audit_api_audit_get",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "title": "Limit"
+            }
+          },
+          {
+            "name": "x-user-id",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "description": "Demo identity; production would use OIDC/JWT",
+              "title": "X-User-Id"
+            },
+            "description": "Demo identity; production would use OIDC/JWT"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/AuditEntry"
+                  },
+                  "title": "Response Audit Api Audit Get"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AccessScope": {
+        "properties": {
+          "role": {
+            "$ref": "#/components/schemas/Role"
+          },
+          "territories": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Territories"
+          },
+          "record_types": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Record Types"
+          },
+          "max_sensitivity": {
+            "type": "string",
+            "enum": [
+              "public",
+              "internal",
+              "confidential",
+              "restricted"
+            ],
+            "title": "Max Sensitivity"
+          }
+        },
+        "type": "object",
+        "required": [
+          "role",
+          "territories",
+          "record_types",
+          "max_sensitivity"
+        ],
+        "title": "AccessScope"
+      },
+      "AccountBrief": {
+        "properties": {
+          "summary": {
+            "type": "string",
+            "maxLength": 1200,
+            "minLength": 10,
+            "title": "Summary"
+          },
+          "summary_source_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "minItems": 1,
+            "title": "Summary Source Ids"
+          },
+          "key_facts": {
+            "items": {
+              "$ref": "#/components/schemas/Claim"
+            },
+            "type": "array",
+            "maxItems": 8,
+            "title": "Key Facts"
+          },
+          "recent_activity": {
+            "items": {
+              "$ref": "#/components/schemas/Claim"
+            },
+            "type": "array",
+            "maxItems": 6,
+            "title": "Recent Activity"
+          },
+          "risks": {
+            "items": {
+              "$ref": "#/components/schemas/Claim"
+            },
+            "type": "array",
+            "maxItems": 6,
+            "title": "Risks"
+          }
+        },
+        "type": "object",
+        "required": [
+          "summary",
+          "summary_source_ids",
+          "key_facts",
+          "recent_activity",
+          "risks"
+        ],
+        "title": "AccountBrief"
+      },
+      "AccountListItem": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "industry": {
+            "type": "string",
+            "title": "Industry"
+          },
+          "territory": {
+            "type": "string",
+            "title": "Territory"
+          },
+          "tier": {
+            "type": "string",
+            "title": "Tier"
+          },
+          "city": {
+            "type": "string",
+            "title": "City"
+          },
+          "owner_name": {
+            "type": "string",
+            "title": "Owner Name"
+          },
+          "use_case": {
+            "type": "string",
+            "title": "Use Case"
+          },
+          "synthetic": {
+            "type": "boolean",
+            "title": "Synthetic",
+            "default": true
+          },
+          "opportunity_stage": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Opportunity Stage"
+          },
+          "next_meeting": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Next Meeting"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "industry",
+          "territory",
+          "tier",
+          "city",
+          "owner_name",
+          "use_case",
+          "synthetic",
+          "opportunity_stage",
+          "next_meeting"
+        ],
+        "title": "AccountListItem"
+      },
+      "AccountSummary": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "industry": {
+            "type": "string",
+            "title": "Industry"
+          },
+          "territory": {
+            "type": "string",
+            "title": "Territory"
+          },
+          "tier": {
+            "type": "string",
+            "title": "Tier"
+          },
+          "city": {
+            "type": "string",
+            "title": "City"
+          },
+          "owner_name": {
+            "type": "string",
+            "title": "Owner Name"
+          },
+          "use_case": {
+            "type": "string",
+            "title": "Use Case"
+          },
+          "synthetic": {
+            "type": "boolean",
+            "title": "Synthetic",
+            "default": true
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "industry",
+          "territory",
+          "tier",
+          "city",
+          "owner_name",
+          "use_case",
+          "synthetic"
+        ],
+        "title": "AccountSummary"
+      },
+      "Answer": {
+        "properties": {
+          "answer": {
+            "type": "string",
+            "maxLength": 2000,
+            "minLength": 1,
+            "title": "Answer"
+          },
+          "claims": {
+            "items": {
+              "$ref": "#/components/schemas/Claim"
+            },
+            "type": "array",
+            "maxItems": 8,
+            "title": "Claims"
+          }
+        },
+        "type": "object",
+        "required": [
+          "answer",
+          "claims"
+        ],
+        "title": "Answer"
+      },
+      "AskRequest": {
+        "properties": {
+          "question": {
+            "type": "string",
+            "maxLength": 1000,
+            "minLength": 3,
+            "title": "Question"
+          },
+          "account_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Account Id"
+          }
+        },
+        "type": "object",
+        "required": [
+          "question"
+        ],
+        "title": "AskRequest"
+      },
+      "AskResponse": {
+        "properties": {
+          "question": {
+            "type": "string",
+            "title": "Question"
+          },
+          "result": {
+            "$ref": "#/components/schemas/Answer"
+          },
+          "citations": {
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            },
+            "type": "array",
+            "title": "Citations"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/ResponseMeta"
+          }
+        },
+        "type": "object",
+        "required": [
+          "question",
+          "result",
+          "citations",
+          "meta"
+        ],
+        "title": "AskResponse"
+      },
+      "Attendee": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          }
+        },
+        "type": "object",
+        "required": [
+          "name",
+          "title"
+        ],
+        "title": "Attendee"
+      },
+      "AuditEntry": {
+        "properties": {
+          "ts": {
+            "type": "string",
+            "title": "Ts"
+          },
+          "trace_id": {
+            "type": "string",
+            "title": "Trace Id"
+          },
+          "user_id": {
+            "type": "string",
+            "title": "User Id"
+          },
+          "role": {
+            "type": "string",
+            "title": "Role"
+          },
+          "action": {
+            "type": "string",
+            "title": "Action"
+          },
+          "account_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Account Id"
+          },
+          "provider": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Provider"
+          },
+          "record_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Record Ids"
+          },
+          "guardrail_events": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Guardrail Events"
+          },
+          "outcome": {
+            "type": "string",
+            "title": "Outcome"
+          }
+        },
+        "type": "object",
+        "required": [
+          "ts",
+          "trace_id",
+          "user_id",
+          "role",
+          "action",
+          "account_id",
+          "provider",
+          "record_ids",
+          "guardrail_events",
+          "outcome"
+        ],
+        "title": "AuditEntry"
+      },
+      "BriefResponse": {
+        "properties": {
+          "account": {
+            "$ref": "#/components/schemas/AccountSummary"
+          },
+          "brief": {
+            "$ref": "#/components/schemas/AccountBrief"
+          },
+          "citations": {
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            },
+            "type": "array",
+            "title": "Citations"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/ResponseMeta"
+          }
+        },
+        "type": "object",
+        "required": [
+          "account",
+          "brief",
+          "citations",
+          "meta"
+        ],
+        "title": "BriefResponse"
+      },
+      "Citation": {
+        "properties": {
+          "source_id": {
+            "type": "string",
+            "title": "Source Id"
+          },
+          "record_id": {
+            "type": "string",
+            "title": "Record Id"
+          },
+          "source_type": {
+            "type": "string",
+            "enum": [
+              "account",
+              "contact",
+              "opportunity",
+              "activity",
+              "email",
+              "meeting",
+              "product_doc"
+            ],
+            "title": "Source Type"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "snippet": {
+            "type": "string",
+            "title": "Snippet"
+          }
+        },
+        "type": "object",
+        "required": [
+          "source_id",
+          "record_id",
+          "source_type",
+          "title",
+          "snippet"
+        ],
+        "title": "Citation"
+      },
+      "Claim": {
+        "properties": {
+          "text": {
+            "type": "string",
+            "maxLength": 600,
+            "minLength": 3,
+            "title": "Text"
+          },
+          "source_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "maxItems": 6,
+            "minItems": 1,
+            "title": "Source Ids"
+          }
+        },
+        "type": "object",
+        "required": [
+          "text",
+          "source_ids"
+        ],
+        "title": "Claim"
+      },
+      "GuardrailEvent": {
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "prompt_injection",
+              "pii_redaction",
+              "invalid_citation",
+              "validation_retry",
+              "fallback"
+            ],
+            "title": "Type"
+          },
+          "source_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Source Id"
+          },
+          "detail": {
+            "type": "string",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "required": [
+          "type",
+          "source_id",
+          "detail"
+        ],
+        "title": "GuardrailEvent"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "Health": {
+        "properties": {
+          "status": {
+            "type": "string",
+            "title": "Status"
+          },
+          "index_chunks": {
+            "type": "integer",
+            "title": "Index Chunks"
+          },
+          "embedder": {
+            "type": "string",
+            "title": "Embedder"
+          },
+          "provider": {
+            "type": "string",
+            "title": "Provider"
+          },
+          "model": {
+            "type": "string",
+            "title": "Model"
+          },
+          "data_as_of": {
+            "type": "string",
+            "title": "Data As Of"
+          }
+        },
+        "type": "object",
+        "required": [
+          "status",
+          "index_chunks",
+          "embedder",
+          "provider",
+          "model",
+          "data_as_of"
+        ],
+        "title": "Health"
+      },
+      "Me": {
+        "properties": {
+          "user": {
+            "$ref": "#/components/schemas/User"
+          },
+          "scope": {
+            "$ref": "#/components/schemas/AccessScope"
+          }
+        },
+        "type": "object",
+        "required": [
+          "user",
+          "scope"
+        ],
+        "title": "Me"
+      },
+      "MeetingInfo": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "start": {
+            "type": "string",
+            "title": "Start"
+          },
+          "duration_minutes": {
+            "type": "integer",
+            "title": "Duration Minutes"
+          },
+          "agenda": {
+            "type": "string",
+            "title": "Agenda"
+          },
+          "attendees": {
+            "items": {
+              "$ref": "#/components/schemas/Attendee"
+            },
+            "type": "array",
+            "title": "Attendees"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "start",
+          "duration_minutes",
+          "agenda",
+          "attendees"
+        ],
+        "title": "MeetingInfo"
+      },
+      "MeetingPrep": {
+        "properties": {
+          "objectives": {
+            "items": {
+              "$ref": "#/components/schemas/Claim"
+            },
+            "type": "array",
+            "maxItems": 5,
+            "minItems": 1,
+            "title": "Objectives"
+          },
+          "talking_points": {
+            "items": {
+              "$ref": "#/components/schemas/Claim"
+            },
+            "type": "array",
+            "maxItems": 6,
+            "title": "Talking Points"
+          },
+          "questions_to_ask": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "maxItems": 6,
+            "title": "Questions To Ask"
+          },
+          "risks": {
+            "items": {
+              "$ref": "#/components/schemas/Claim"
+            },
+            "type": "array",
+            "maxItems": 5,
+            "title": "Risks"
+          }
+        },
+        "type": "object",
+        "required": [
+          "objectives",
+          "talking_points",
+          "questions_to_ask",
+          "risks"
+        ],
+        "title": "MeetingPrep"
+      },
+      "MeetingPrepRequest": {
+        "properties": {
+          "meeting_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Meeting Id"
+          }
+        },
+        "type": "object",
+        "title": "MeetingPrepRequest"
+      },
+      "MeetingPrepResponse": {
+        "properties": {
+          "account": {
+            "$ref": "#/components/schemas/AccountSummary"
+          },
+          "meeting": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/MeetingInfo"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "prep": {
+            "$ref": "#/components/schemas/MeetingPrep"
+          },
+          "citations": {
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            },
+            "type": "array",
+            "title": "Citations"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/ResponseMeta"
+          }
+        },
+        "type": "object",
+        "required": [
+          "account",
+          "meeting",
+          "prep",
+          "citations",
+          "meta"
+        ],
+        "title": "MeetingPrepResponse"
+      },
+      "NextBestAction": {
+        "properties": {
+          "action": {
+            "type": "string",
+            "maxLength": 300,
+            "minLength": 5,
+            "title": "Action"
+          },
+          "action_type": {
+            "type": "string",
+            "enum": [
+              "follow_up",
+              "schedule_meeting",
+              "share_content",
+              "involve_specialist",
+              "escalate_internal",
+              "update_crm"
+            ],
+            "title": "Action Type"
+          },
+          "priority": {
+            "type": "string",
+            "enum": [
+              "high",
+              "medium",
+              "low"
+            ],
+            "title": "Priority"
+          },
+          "rationale": {
+            "type": "string",
+            "maxLength": 500,
+            "minLength": 5,
+            "title": "Rationale"
+          },
+          "source_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "maxItems": 6,
+            "minItems": 1,
+            "title": "Source Ids"
+          }
+        },
+        "type": "object",
+        "required": [
+          "action",
+          "action_type",
+          "priority",
+          "rationale",
+          "source_ids"
+        ],
+        "title": "NextBestAction"
+      },
+      "NextBestActions": {
+        "properties": {
+          "actions": {
+            "items": {
+              "$ref": "#/components/schemas/NextBestAction"
+            },
+            "type": "array",
+            "maxItems": 5,
+            "minItems": 1,
+            "title": "Actions"
+          }
+        },
+        "type": "object",
+        "required": [
+          "actions"
+        ],
+        "title": "NextBestActions"
+      },
+      "NextBestActionsResponse": {
+        "properties": {
+          "account": {
+            "$ref": "#/components/schemas/AccountSummary"
+          },
+          "result": {
+            "$ref": "#/components/schemas/NextBestActions"
+          },
+          "citations": {
+            "items": {
+              "$ref": "#/components/schemas/Citation"
+            },
+            "type": "array",
+            "title": "Citations"
+          },
+          "meta": {
+            "$ref": "#/components/schemas/ResponseMeta"
+          }
+        },
+        "type": "object",
+        "required": [
+          "account",
+          "result",
+          "citations",
+          "meta"
+        ],
+        "title": "NextBestActionsResponse"
+      },
+      "ResponseMeta": {
+        "properties": {
+          "trace_id": {
+            "type": "string",
+            "title": "Trace Id"
+          },
+          "provider": {
+            "type": "string",
+            "title": "Provider"
+          },
+          "model": {
+            "type": "string",
+            "title": "Model"
+          },
+          "fallback_reason": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Fallback Reason"
+          },
+          "stages_ms": {
+            "additionalProperties": {
+              "type": "number"
+            },
+            "type": "object",
+            "title": "Stages Ms"
+          },
+          "tokens": {
+            "anyOf": [
+              {
+                "$ref": "#/components/schemas/TokenUsage"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "redactions": {
+            "type": "integer",
+            "title": "Redactions",
+            "default": 0
+          },
+          "guardrail_events": {
+            "items": {
+              "$ref": "#/components/schemas/GuardrailEvent"
+            },
+            "type": "array",
+            "title": "Guardrail Events"
+          },
+          "groundedness": {
+            "type": "number",
+            "title": "Groundedness"
+          },
+          "ungrounded_claims": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Ungrounded Claims"
+          },
+          "retrieved_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Retrieved Ids"
+          },
+          "tool_calls": {
+            "items": {
+              "$ref": "#/components/schemas/ToolCallRecord"
+            },
+            "type": "array",
+            "title": "Tool Calls"
+          },
+          "access_scope": {
+            "$ref": "#/components/schemas/AccessScope"
+          }
+        },
+        "type": "object",
+        "required": [
+          "trace_id",
+          "provider",
+          "model",
+          "fallback_reason",
+          "stages_ms",
+          "tokens",
+          "redactions",
+          "guardrail_events",
+          "groundedness",
+          "ungrounded_claims",
+          "retrieved_ids",
+          "tool_calls",
+          "access_scope"
+        ],
+        "title": "ResponseMeta"
+      },
+      "Role": {
+        "type": "string",
+        "enum": [
+          "SDR",
+          "AE",
+          "MANAGER"
+        ],
+        "title": "Role"
+      },
+      "SourceRecord": {
+        "properties": {
+          "source_id": {
+            "type": "string",
+            "title": "Source Id"
+          },
+          "record_id": {
+            "type": "string",
+            "title": "Record Id"
+          },
+          "source_type": {
+            "type": "string",
+            "enum": [
+              "account",
+              "contact",
+              "opportunity",
+              "activity",
+              "email",
+              "meeting",
+              "product_doc"
+            ],
+            "title": "Source Type"
+          },
+          "title": {
+            "type": "string",
+            "title": "Title"
+          },
+          "text": {
+            "type": "string",
+            "title": "Text"
+          },
+          "account_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Account Id"
+          },
+          "territory": {
+            "type": "string",
+            "title": "Territory"
+          },
+          "sensitivity": {
+            "type": "string",
+            "enum": [
+              "public",
+              "internal",
+              "confidential",
+              "restricted"
+            ],
+            "title": "Sensitivity"
+          },
+          "flagged_injection": {
+            "type": "boolean",
+            "title": "Flagged Injection"
+          }
+        },
+        "type": "object",
+        "required": [
+          "source_id",
+          "record_id",
+          "source_type",
+          "title",
+          "text",
+          "account_id",
+          "territory",
+          "sensitivity",
+          "flagged_injection"
+        ],
+        "title": "SourceRecord"
+      },
+      "TokenUsage": {
+        "properties": {
+          "prompt_tokens": {
+            "type": "integer",
+            "title": "Prompt Tokens"
+          },
+          "completion_tokens": {
+            "type": "integer",
+            "title": "Completion Tokens"
+          },
+          "total_tokens": {
+            "type": "integer",
+            "title": "Total Tokens"
+          },
+          "estimated": {
+            "type": "boolean",
+            "title": "Estimated",
+            "default": false
+          }
+        },
+        "type": "object",
+        "required": [
+          "prompt_tokens",
+          "completion_tokens",
+          "total_tokens",
+          "estimated"
+        ],
+        "title": "TokenUsage"
+      },
+      "ToolCallRecord": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "args": {
+            "additionalProperties": {
+              "type": "string"
+            },
+            "type": "object",
+            "title": "Args"
+          },
+          "result_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Result Ids"
+          },
+          "ms": {
+            "type": "number",
+            "title": "Ms"
+          }
+        },
+        "type": "object",
+        "required": [
+          "name",
+          "args",
+          "result_ids",
+          "ms"
+        ],
+        "title": "ToolCallRecord"
+      },
+      "User": {
+        "properties": {
+          "id": {
+            "type": "string",
+            "title": "Id"
+          },
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "role": {
+            "$ref": "#/components/schemas/Role"
+          },
+          "territories": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array",
+            "title": "Territories"
+          }
+        },
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "role",
+          "territories"
+        ],
+        "title": "User"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          },
+          "input": {
+            "title": "Input"
+          },
+          "ctx": {
+            "type": "object",
+            "title": "Context"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    }
+  }
+}

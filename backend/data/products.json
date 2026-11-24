@@ -1,0 +1,130 @@
+[
+  {
+    "id": "PRD-001",
+    "name": "Orbitra Inference Platform",
+    "territory": "GLOBAL",
+    "sensitivity": "public",
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "Orbitra Inference Platform serves large language models and vision models behind an OpenAI-compatible API. It runs on-premises, in a private cloud or as a managed service."
+      },
+      {
+        "title": "Performance and scaling",
+        "text": "The platform autoscales model replicas on request queue depth and supports batching. Typical latency targets are under 300 milliseconds to first token for 8B parameter models."
+      },
+      {
+        "title": "Security",
+        "text": "Deployments can run fully inside a customer network with no data leaving the environment. Supports single sign-on, role-based access control and audit logging."
+      }
+    ]
+  },
+  {
+    "id": "PRD-002",
+    "name": "Orbitra Vector DB",
+    "territory": "GLOBAL",
+    "sensitivity": "public",
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "Orbitra Vector DB stores embeddings for retrieval augmented generation and semantic search. It combines vector similarity with keyword (BM25) search in one hybrid query."
+      },
+      {
+        "title": "Access control",
+        "text": "Metadata filters such as territory, document owner and classification are applied inside the similarity search, so users only retrieve documents they are allowed to see."
+      },
+      {
+        "title": "Freshness",
+        "text": "Incremental upserts keep the index current; catalogue or document changes are searchable within about one minute."
+      }
+    ]
+  },
+  {
+    "id": "PRD-003",
+    "name": "Orbitra Guard",
+    "territory": "GLOBAL",
+    "sensitivity": "public",
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "Orbitra Guard adds input, output and retrieval guardrails to generative AI applications."
+      },
+      {
+        "title": "Privacy",
+        "text": "Detects and redacts personal data such as emails, phone numbers and names before text is sent to a model, and restores it for authorised users."
+      },
+      {
+        "title": "Prompt injection",
+        "text": "Scans retrieved documents and user input for prompt injection patterns and quarantines suspicious content. Every decision is written to an audit log."
+      }
+    ]
+  },
+  {
+    "id": "PRD-004",
+    "name": "Orbitra Edge Appliance",
+    "territory": "GLOBAL",
+    "sensitivity": "public",
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "Orbitra Edge Appliance is a ruggedised GPU server for computer vision and language inference at factories, plants and remote sites."
+      },
+      {
+        "title": "Environment",
+        "text": "Rated for 0 to 50 degrees Celsius and dust-protected enclosures. Runs disconnected and syncs models when connectivity returns."
+      },
+      {
+        "title": "Latency",
+        "text": "Vision models typically run under 30 milliseconds per frame on the appliance."
+      }
+    ]
+  },
+  {
+    "id": "PRD-005",
+    "name": "Orbitra Document AI",
+    "territory": "GLOBAL",
+    "sensitivity": "public",
+    "sections": [
+      {
+        "title": "Overview",
+        "text": "Orbitra Document AI extracts fields and tables from scanned forms, invoices, bills of lading and claim forms."
+      },
+      {
+        "title": "Accuracy",
+        "text": "Field-level extraction accuracy is typically above 95 percent on printed forms; handwritten annotations are supported in preview with lower accuracy."
+      }
+    ]
+  },
+  {
+    "id": "PRD-006",
+    "name": "Competitive brief: Kordon Cloud, Brightlake AI and Pyxel Compute",
+    "territory": "GLOBAL",
+    "sensitivity": "internal",
+    "sections": [
+      {
+        "title": "Kordon Cloud",
+        "text": "Kordon Cloud is a hosted-only offering. Position Orbitra on private deployment, data residency and predictable pricing."
+      },
+      {
+        "title": "Brightlake AI",
+        "text": "Brightlake AI offers a strong hosted API but limited regional hosting. Position Orbitra on data residency and audit trails."
+      },
+      {
+        "title": "Pyxel Compute",
+        "text": "Pyxel Compute competes on GPU price. Position Orbitra on total cost including software, guardrails and support."
+      }
+    ]
+  },
+  {
+    "id": "PRD-007",
+    "name": "Pricing and discount policy",
+    "territory": "GLOBAL",
+    "sensitivity": "confidential",
+    "sections": [
+      {
+        "title": "Discount authority",
+        "text": "Account executives may approve discounts up to 10 percent. Discounts from 10 to 20 percent need sales manager approval. Anything above 20 percent goes to the deal desk."
+      }
+    ]
+  }
+]

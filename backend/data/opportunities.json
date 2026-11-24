@@ -1,0 +1,205 @@
+[
+  {
+    "id": "OPP-0011",
+    "account_id": "ACC-001",
+    "territory": "APAC-West",
+    "name": "Velmora Logistics - Document AI",
+    "stage": "Technical Validation",
+    "amount_usd": 420000,
+    "close_date": "2027-02-27",
+    "probability": 40,
+    "products": [
+      "PRD-005",
+      "PRD-001"
+    ],
+    "competitor": "Kordon Cloud",
+    "next_step": "send the pilot success criteria document",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0021",
+    "account_id": "ACC-002",
+    "territory": "APAC-West",
+    "name": "Kestrelline Health - Clinical note summarisation",
+    "stage": "Qualification",
+    "amount_usd": 310000,
+    "close_date": "2027-04-30",
+    "probability": 25,
+    "products": [
+      "PRD-001",
+      "PRD-003"
+    ],
+    "competitor": "Brightlake AI",
+    "next_step": "complete the security questionnaire with their compliance team",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0031",
+    "account_id": "ACC-003",
+    "territory": "APAC-West",
+    "name": "Torvane Manufacturing - Visual defect inspection",
+    "stage": "Discovery",
+    "amount_usd": 275000,
+    "close_date": "2027-05-29",
+    "probability": 10,
+    "products": [
+      "PRD-004"
+    ],
+    "competitor": null,
+    "next_step": "run a two-week edge appliance trial on line 4",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0041",
+    "account_id": "ACC-004",
+    "territory": "APAC-West",
+    "name": "Lumisk Retail - Semantic product search and recommendations",
+    "stage": "Proposal",
+    "amount_usd": 150000,
+    "close_date": "2026-12-18",
+    "probability": 60,
+    "products": [
+      "PRD-002"
+    ],
+    "competitor": "Kordon Cloud",
+    "next_step": "benchmark hybrid search relevance on 1,000 real queries",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0051",
+    "account_id": "ACC-005",
+    "territory": "APAC-South",
+    "name": "Quarnell Bank - Customer service agent assistant with retrieval over policy documents",
+    "stage": "Negotiation",
+    "amount_usd": 890000,
+    "close_date": "2026-12-31",
+    "probability": 80,
+    "products": [
+      "PRD-001",
+      "PRD-002",
+      "PRD-003"
+    ],
+    "competitor": "Pyxel Compute",
+    "next_step": "share the evaluation report template with the model risk team",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0061",
+    "account_id": "ACC-006",
+    "territory": "APAC-South",
+    "name": "Tidemarch Energy - Knowledge assistant",
+    "stage": "Technical Validation",
+    "amount_usd": 360000,
+    "close_date": "2027-03-31",
+    "probability": 40,
+    "products": [
+      "PRD-004",
+      "PRD-002"
+    ],
+    "competitor": null,
+    "next_step": "scope an offline-capable edge deployment for two offshore sites",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0071",
+    "account_id": "ACC-007",
+    "territory": "APAC-South",
+    "name": "Ombrevale Utilities - Customer churn prediction and retention offers",
+    "stage": "Qualification",
+    "amount_usd": 120000,
+    "close_date": "2027-06-30",
+    "probability": 25,
+    "products": [
+      "PRD-001"
+    ],
+    "competitor": "Brightlake AI",
+    "next_step": "re-engage the new economic buyer with an executive briefing",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0081",
+    "account_id": "ACC-008",
+    "territory": "EMEA-North",
+    "name": "Skyrune Airlines - Customer service copilot",
+    "stage": "Proposal",
+    "amount_usd": 640000,
+    "close_date": "2027-01-29",
+    "probability": 60,
+    "products": [
+      "PRD-001",
+      "PRD-003"
+    ],
+    "competitor": "Kordon Cloud",
+    "next_step": "present the data processing agreement to their DPO",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0091",
+    "account_id": "ACC-009",
+    "territory": "EMEA-North",
+    "name": "Feldspire Telecom - Agent that triages network operations alarms",
+    "stage": "Technical Validation",
+    "amount_usd": 520000,
+    "close_date": "2027-03-15",
+    "probability": 40,
+    "products": [
+      "PRD-001",
+      "PRD-002"
+    ],
+    "competitor": "Pyxel Compute",
+    "next_step": "agree the data access plan with the network data team",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0101",
+    "account_id": "ACC-010",
+    "territory": "EMEA-North",
+    "name": "Granmoor Insurance - Claims document triage and fraud signals",
+    "stage": "Proposal",
+    "amount_usd": 280000,
+    "close_date": "2027-01-15",
+    "probability": 60,
+    "products": [
+      "PRD-005",
+      "PRD-003"
+    ],
+    "competitor": null,
+    "next_step": "submit the formal quote through their procurement portal",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0111",
+    "account_id": "ACC-011",
+    "territory": "NA-East",
+    "name": "Halvecrest Pharma - Retrieval over research literature and lab reports",
+    "stage": "Discovery",
+    "amount_usd": 700000,
+    "close_date": "2027-06-30",
+    "probability": 10,
+    "products": [
+      "PRD-002",
+      "PRD-001"
+    ],
+    "competitor": "Brightlake AI",
+    "next_step": "arrange a session with their validation team",
+    "sensitivity": "confidential"
+  },
+  {
+    "id": "OPP-0121",
+    "account_id": "ACC-012",
+    "territory": "NA-East",
+    "name": "Orbelle Semiconductors - Assistant over chip design documentation",
+    "stage": "Qualification",
+    "amount_usd": 480000,
+    "close_date": "2027-05-15",
+    "probability": 25,
+    "products": [
+      "PRD-001",
+      "PRD-002",
+      "PRD-003"
+    ],
+    "competitor": "Pyxel Compute",
+    "next_step": "propose an on-premises deployment architecture",
+    "sensitivity": "confidential"
+  }
+]

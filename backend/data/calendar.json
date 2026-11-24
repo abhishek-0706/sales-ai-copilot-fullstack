@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MTG-0011",
+    "account_id": "ACC-001",
+    "territory": "APAC-West",
+    "title": "Velmora Logistics: send the pilot success criteria document",
+    "start": "2026-11-25T09:30:00+05:30",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-001-1",
+      "CON-001-2"
+    ],
+    "owner_id": "u-ae-01",
+    "agenda": "Review progress on document AI for bills of lading and customs forms; address whether handwritten annotations can be extracted; agree next step: send the pilot success criteria document.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0021",
+    "account_id": "ACC-002",
+    "territory": "APAC-West",
+    "title": "Kestrelline Health: complete the security questionnaire",
+    "start": "2026-11-26T10:30:00+05:30",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-002-1",
+      "CON-002-2"
+    ],
+    "owner_id": "u-ae-01",
+    "agenda": "Review progress on clinical note summarisation for discharge summaries; address how protected health information is redacted before inference; agree next step: complete the security questionnaire with their compliance team.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0031",
+    "account_id": "ACC-003",
+    "territory": "APAC-West",
+    "title": "Torvane Manufacturing: run a two-week edge appliance trial on line 4",
+    "start": "2026-11-27T11:30:00+05:30",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-003-1",
+      "CON-003-2"
+    ],
+    "owner_id": "u-ae-01",
+    "agenda": "Review progress on visual defect inspection on the assembly line at the edge; address whether the appliance survives dust and heat on the shop floor; agree next step: run a two-week edge appliance trial on line 4.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0041",
+    "account_id": "ACC-004",
+    "territory": "APAC-West",
+    "title": "Lumisk Retail: benchmark hybrid search relevance on 1,000 real queries",
+    "start": "2026-11-28T12:30:00+05:30",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-004-1",
+      "CON-004-2"
+    ],
+    "owner_id": "u-ae-01",
+    "agenda": "Review progress on semantic product search and recommendations on their storefront; address how the index is updated when the catalogue changes hourly; agree next step: benchmark hybrid search relevance on 1,000 real queries.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0051",
+    "account_id": "ACC-005",
+    "territory": "APAC-South",
+    "title": "Quarnell Bank: share the evaluation report template",
+    "start": "2026-11-29T13:30:00+05:30",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-005-1",
+      "CON-005-2"
+    ],
+    "owner_id": "u-ae-03",
+    "agenda": "Review progress on a customer service agent assistant with retrieval over policy documents; address whether responses can be restricted to approved policy documents only; agree next step: share the evaluation report template with the model risk team.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0061",
+    "account_id": "ACC-006",
+    "territory": "APAC-South",
+    "title": "Tidemarch Energy: scope an offline-capable edge deployment for two offshore sites",
+    "start": "2026-11-25T14:30:00+05:30",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-006-1",
+      "CON-006-2"
+    ],
+    "owner_id": "u-ae-03",
+    "agenda": "Review progress on a knowledge assistant for field engineers doing turbine maintenance; address how answers are kept up to date when manuals are revised; agree next step: scope an offline-capable edge deployment for two offshore sites.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0071",
+    "account_id": "ACC-007",
+    "territory": "APAC-South",
+    "title": "Ombrevale Utilities: re-engage the new economic buyer",
+    "start": "2026-11-26T09:30:00+05:30",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-007-1",
+      "CON-007-2"
+    ],
+    "owner_id": "u-ae-03",
+    "agenda": "Review progress on customer churn prediction and retention offers; address who now owns the budget after the reorganisation; agree next step: re-engage the new economic buyer with an executive briefing.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0081",
+    "account_id": "ACC-008",
+    "territory": "EMEA-North",
+    "title": "Skyrune Airlines: present the data processing agreement to their DPO",
+    "start": "2026-11-27T10:00:00Z",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-008-1",
+      "CON-008-2"
+    ],
+    "owner_id": "u-ae-02",
+    "agenda": "Review progress on a customer service copilot for rebooking disrupted passengers; address whether the copilot can run in an EU-only region; agree next step: present the data processing agreement to their DPO.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0091",
+    "account_id": "ACC-009",
+    "territory": "EMEA-North",
+    "title": "Feldspire Telecom: agree the data access plan",
+    "start": "2026-11-28T11:00:00Z",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-009-1",
+      "CON-009-2"
+    ],
+    "owner_id": "u-ae-02",
+    "agenda": "Review progress on an agent that triages network operations alarms; address how the agent is prevented from executing changes without approval; agree next step: agree the data access plan with the network data team.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0101",
+    "account_id": "ACC-010",
+    "territory": "EMEA-North",
+    "title": "Granmoor Insurance: submit the formal quote through their procurement portal",
+    "start": "2026-11-29T12:00:00Z",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-010-1",
+      "CON-010-2"
+    ],
+    "owner_id": "u-ae-02",
+    "agenda": "Review progress on claims document triage and fraud signals; address what accuracy guarantee can be written into the contract; agree next step: submit the formal quote through their procurement portal.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0111",
+    "account_id": "ACC-011",
+    "territory": "NA-East",
+    "title": "Halvecrest Pharma: arrange a session",
+    "start": "2026-11-25T13:00:00Z",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-011-1",
+      "CON-011-2"
+    ],
+    "owner_id": "u-ae-04",
+    "agenda": "Review progress on retrieval over research literature and lab reports; address how the system handles confidential unpublished results; agree next step: arrange a session with their validation team.",
+    "sensitivity": "internal"
+  },
+  {
+    "id": "MTG-0121",
+    "account_id": "ACC-012",
+    "territory": "NA-East",
+    "title": "Orbelle Semiconductors: propose an on-premises deployment architecture",
+    "start": "2026-11-26T14:00:00Z",
+    "duration_minutes": 45,
+    "attendee_contact_ids": [
+      "CON-012-1",
+      "CON-012-2"
+    ],
+    "owner_id": "u-ae-04",
+    "agenda": "Review progress on an assistant over chip design documentation; address how document-level access controls carry into the retrieval index; agree next step: propose an on-premises deployment architecture.",
+    "sensitivity": "internal"
+  }
+]

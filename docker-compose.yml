@@ -1,0 +1,21 @@
+# Local stack: API on :8000, web UI on :8080. Images were not built while writing this PoC (no Docker available).
+services:
+  api:
+    build: ./backend
+    environment:
+      LLM_PROVIDER: ${LLM_PROVIDER:-offline}
+      LLM_BASE_URL: ${LLM_BASE_URL:-https://integrate.api.nvidia.com/v1}
+      LLM_MODEL: ${LLM_MODEL:-meta/llama-3.3-70b-instruct}
+      NVIDIA_API_KEY: ${NVIDIA_API_KEY:-}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      EMBEDDER: hash
+    ports:
+      - "8000:8000"
+  web:
+    build: ./frontend
+    environment:
+      API_UPSTREAM: http://api:8000
+    ports:
+      - "8080:8080"
+    depends_on:
+      - api

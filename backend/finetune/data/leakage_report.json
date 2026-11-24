@@ -1,0 +1,389 @@
+{
+ "seed": 42,
+ "thresholds": {
+  "difflib_ratio": 0.7,
+  "token_jaccard": 0.5
+ },
+ "generated": {
+  "llm": 1115,
+  "template": 276
+ },
+ "after_dedup": 1335,
+ "dropped_ambiguous_no_account_cue": 420,
+ "dropped_near_test_or_golden": 31,
+ "dropped_nearest_is_test": 2,
+ "dropped_semantic_paraphrase_of_test": 15,
+ "same_answer_questions_by_cosine_threshold": {
+  "0.75": 47,
+  "0.8": 15,
+  "0.85": 4,
+  "0.9": 0
+ },
+ "kept_max_cosine_same_answer": 0.799,
+ "train_questions": 796,
+ "val_questions": 88,
+ "train_pairs": 1141,
+ "val_pairs": 128,
+ "kept_max_ratio": 0.694,
+ "kept_max_jaccard": 0.444,
+ "exact_test_matches_in_train_or_val": 0,
+ "dropped": [
+  {
+   "question": "What competitor is Velmora also evaluating?",
+   "nearest_ref": "Which competitor is Velmora Logistics evaluating?",
+   "max_ratio": 0.848,
+   "max_jaccard": 0.6
+  },
+  {
+   "question": "What is the approved maximum discount for this deal?",
+   "nearest_ref": "What is the maximum approved discount for Velmora Logistics?",
+   "max_ratio": 0.661,
+   "max_jaccard": 0.5
+  },
+  {
+   "question": "What is the city and region for the logistics account?",
+   "nearest_ref": "What is the stage and amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.7,
+   "max_jaccard": 0.143
+  },
+  {
+   "question": "What is the main concern about patient data residency?",
+   "nearest_ref": "What is Kestrelline Health's main concern about patient data?",
+   "max_ratio": 0.748,
+   "max_jaccard": 0.5
+  },
+  {
+   "question": "What is the amount in USD for the Torvane edge inspection opportunity?",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.746,
+   "max_jaccard": 0.25
+  },
+  {
+   "question": "What is the amount and currency for the Torvane edge opportunity?",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.711,
+   "max_jaccard": 0.286
+  },
+  {
+   "question": "What is the amount for the visual defect inspection opportunity?",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.717,
+   "max_jaccard": 0.286
+  },
+  {
+   "question": "What is the stage of the Torvane visual inspection opportunity?",
+   "nearest_ref": "What is the stage and amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.713,
+   "max_jaccard": 0.333
+  },
+  {
+   "question": "Who is the owner of the Lumisk Retail account?",
+   "nearest_ref": "Who is the competitor on the Lumisk Retail deal?",
+   "max_ratio": 0.787,
+   "max_jaccard": 0.333
+  },
+  {
+   "question": "When does the client\u2019s peak season code freeze begin?",
+   "nearest_ref": "When does the Lumisk Retail code freeze start?",
+   "max_ratio": 0.707,
+   "max_jaccard": 0.2
+  },
+  {
+   "question": "Which competitor is the bank also evaluating?",
+   "nearest_ref": "Which competitor is Velmora Logistics evaluating?",
+   "max_ratio": 0.723,
+   "max_jaccard": 0.333
+  },
+  {
+   "question": "What risk was flagged about model\u2011risk management sign\u2011off?",
+   "nearest_ref": "What does Quarnell Bank model risk management require for sign-off?",
+   "max_ratio": 0.619,
+   "max_jaccard": 0.556
+  },
+  {
+   "question": "What feedback did the agents give after the product demo?",
+   "nearest_ref": "What feedback did Velmora Logistics give on the product demo?",
+   "max_ratio": 0.746,
+   "max_jaccard": 0.429
+  },
+  {
+   "question": "What discount has the deal desk approved for this multi\u2011year contract?",
+   "nearest_ref": "What discount did the deal desk approve for Velmora Logistics?",
+   "max_ratio": 0.712,
+   "max_jaccard": 0.3
+  },
+  {
+   "question": "What products are we proposing for the alarm\u2011triage solution?",
+   "nearest_ref": "Which products are we pitching on the telco alarm-triage opportunity?",
+   "max_ratio": 0.708,
+   "max_jaccard": 0.375
+  },
+  {
+   "question": "How should we position Orbitra against Kordon Cloud\u2019s hosted\u2011only model?",
+   "nearest_ref": "How should I position Orbitra against Kordon Cloud?",
+   "max_ratio": 0.813,
+   "max_jaccard": 0.556
+  },
+  {
+   "question": "Velmora Logistics opportunity stage",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.637,
+   "max_jaccard": 0.8
+  },
+  {
+   "question": "Velmora Logistics competitor",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.548,
+   "max_jaccard": 0.75
+  },
+  {
+   "question": "Velmora Logistics demo feedback",
+   "nearest_ref": "Which competitor is Velmora Logistics evaluating?",
+   "max_ratio": 0.5,
+   "max_jaccard": 0.8
+  },
+  {
+   "question": "Velmora Logistics approved discount",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.527,
+   "max_jaccard": 0.8
+  },
+  {
+   "question": "next step with Kestrelline Health",
+   "nearest_ref": "What is the agreed next step with Kestrelline Health?",
+   "max_ratio": 0.767,
+   "max_jaccard": 0.8
+  },
+  {
+   "question": "Torvane Manufacturing main pain point",
+   "nearest_ref": "What trial did we agree to run at the manufacturing plant?",
+   "max_ratio": 0.484,
+   "max_jaccard": 1.0
+  },
+  {
+   "question": "Lumisk Retail competitor",
+   "nearest_ref": "When does the Lumisk Retail code freeze start?",
+   "max_ratio": 0.543,
+   "max_jaccard": 0.75
+  },
+  {
+   "question": "Lumisk Retail deal risk",
+   "nearest_ref": "When does the Lumisk Retail code freeze start?",
+   "max_ratio": 0.522,
+   "max_jaccard": 0.6
+  },
+  {
+   "question": "Quarnell Bank approved discount",
+   "nearest_ref": "What is the maximum approved discount for Velmora Logistics?",
+   "max_ratio": 0.418,
+   "max_jaccard": 1.0
+  },
+  {
+   "question": "where is Ombrevale Utilities based",
+   "nearest_ref": "Why has the Ombrevale Utilities deal stalled?",
+   "max_ratio": 0.709,
+   "max_jaccard": 0.4
+  },
+  {
+   "question": "who owns the Ombrevale Utilities account",
+   "nearest_ref": "Why has the Ombrevale Utilities deal stalled?",
+   "max_ratio": 0.729,
+   "max_jaccard": 0.333
+  },
+  {
+   "question": "Ombrevale Utilities deal risk",
+   "nearest_ref": "Why has the Ombrevale Utilities deal stalled?",
+   "max_ratio": 0.703,
+   "max_jaccard": 0.6
+  },
+  {
+   "question": "Skyrune Airlines approved discount",
+   "nearest_ref": "What is the maximum approved discount for Velmora Logistics?",
+   "max_ratio": 0.489,
+   "max_jaccard": 1.0
+  },
+  {
+   "question": "Orbitra Vector DB access control",
+   "nearest_ref": "How does Orbitra Vector DB enforce access control?",
+   "max_ratio": 0.78,
+   "max_jaccard": 0.833
+  },
+  {
+   "question": "what does the Orbitra Vector DB doc say about access control",
+   "nearest_ref": "How does Orbitra Vector DB enforce access control?",
+   "max_ratio": 0.764,
+   "max_jaccard": 0.625
+  }
+ ],
+ "closest_kept": [
+  {
+   "question": "What is the amount in USD for the chip design assistant opportunity?",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.694,
+   "max_jaccard": 0.25
+  },
+  {
+   "question": "What stage is the alarm\u2011triage deal in and what is its value?",
+   "nearest_ref": "What stage is the airline copilot deal in and how much is it worth?",
+   "max_ratio": 0.688,
+   "max_jaccard": 0.222
+  },
+  {
+   "question": "who owns the Velmora Logistics account",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.681,
+   "max_jaccard": 0.333
+  },
+  {
+   "question": "What is the owner\u2019s name for the Lumisk Retail account?",
+   "nearest_ref": "Who is the competitor on the Lumisk Retail deal?",
+   "max_ratio": 0.68,
+   "max_jaccard": 0.25
+  },
+  {
+   "question": "What is the main pain point for the design engineers?",
+   "nearest_ref": "What is the main pain point at Torvane Manufacturing?",
+   "max_ratio": 0.679,
+   "max_jaccard": 0.429
+  },
+  {
+   "question": "What is the employee count for the manufacturing account?",
+   "nearest_ref": "What trial did we agree to run at the manufacturing plant?",
+   "max_ratio": 0.678,
+   "max_jaccard": 0.125
+  },
+  {
+   "question": "Who is the account owner for the Mumbai logistics customer?",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.678,
+   "max_jaccard": 0.125
+  },
+  {
+   "question": "What is the amount in USD for the visual defect inspection opportunity?",
+   "nearest_ref": "What is the amount of the Velmora Logistics opportunity?",
+   "max_ratio": 0.677,
+   "max_jaccard": 0.25
+  },
+  {
+   "question": "latest email from Torvane Manufacturing",
+   "nearest_ref": "What is the main pain point at Torvane Manufacturing?",
+   "max_ratio": 0.674,
+   "max_jaccard": 0.286
+  },
+  {
+   "question": "Explain the document AI\u2019s handling of handwritten annotations.",
+   "nearest_ref": "Does Orbitra Document AI support handwritten annotations?",
+   "max_ratio": 0.672,
+   "max_jaccard": 0.444
+  }
+ ],
+ "semantic_dropped": [
+  {
+   "question": "Which record shows the opportunity value for clinical note summarisation?",
+   "nearest_test": "t12",
+   "cosine": 0.839
+  },
+  {
+   "question": "What is the close date for the clinical note summarisation deal?",
+   "nearest_test": "t12",
+   "cosine": 0.849
+  },
+  {
+   "question": "When is the close date for the clinical note summarisation opportunity?",
+   "nearest_test": "t12",
+   "cosine": 0.841
+  },
+  {
+   "question": "What is the amount listed for the clinical note summarisation opportunity?",
+   "nearest_test": "t12",
+   "cosine": 0.826
+  },
+  {
+   "question": "Any notes on the competitor\u2019s bundled offering?",
+   "nearest_test": "t21",
+   "cosine": 0.813
+  },
+  {
+   "question": "What product is our competitor offering as part of a bundle?",
+   "nearest_test": "t21",
+   "cosine": 0.857
+  },
+  {
+   "question": "How long is the call handling time that the bank wants to improve?",
+   "nearest_test": "t23",
+   "cosine": 0.886
+  },
+  {
+   "question": "Which feature impressed the utility\u2019s analytics team during the demo?",
+   "nearest_test": "t36",
+   "cosine": 0.859
+  },
+  {
+   "question": "What is the deal value and close date for the Skyrune Airlines customer service copilot?",
+   "nearest_test": "t41",
+   "cosine": 0.821
+  },
+  {
+   "question": "Which record notes a GDPR review of passenger data?",
+   "nearest_test": "t39",
+   "cosine": 0.816
+  },
+  {
+   "question": "What is the average time currently taken for claims intake?",
+   "nearest_test": "t47",
+   "cosine": 0.816
+  },
+  {
+   "question": "Can the model serving API work like OpenAI\u2019s?",
+   "nearest_test": "t61",
+   "cosine": 0.865
+  },
+  {
+   "question": "How fast does the vision inference run on the edge hardware per frame?",
+   "nearest_test": "t68",
+   "cosine": 0.835
+  },
+  {
+   "question": "What\u2019s the latency goal per frame for vision models on the edge hardware?",
+   "nearest_test": "t68",
+   "cosine": 0.826
+  },
+  {
+   "question": "when is the next Velmora meeting",
+   "nearest_test": "t06",
+   "cosine": 0.811
+  }
+ ],
+ "ambiguous_examples": [
+  "Show me the details of the opportunity for document AI with a $420k value and a 40% win chance.",
+  "What stage is the technical validation currently in for the document AI sale?",
+  "When is the expected close date for the document AI opportunity?",
+  "What is the main pain point the VP of Operations mentioned about manual processing?",
+  "What feedback did the operations team give after the demo on October 15th?",
+  "Why is the competitor considered cheaper, and what limitation does it have?",
+  "What next step was agreed on after the note on November 7th?",
+  "What is the contact phone number for the VP of Operations?",
+  "What agenda items are set for the November 25th meeting?",
+  "Which record shows the close date of the opportunity?",
+  "What is the probability percentage for winning the document AI deal?",
+  "What was the outcome of the discovery call on 2026\u201110\u201103?",
+  "What product suite is being pitched for document AI?",
+  "Any notes on discount limits for this deal?",
+  "When did the demo take place and what was the key feedback?",
+  "What is the industry and region of the strategic account we are targeting?",
+  "What is the name of the VP of Operations who is the main contact?",
+  "Summarize the deal risk and discount guidance for this opportunity.",
+  "What is the next action we need to take for the pilot according to the latest note?",
+  "Give me the account\u2019s strategic classification and region.",
+  "What stage and amount are listed for the document AI opportunity?",
+  "When is the close date and what is the win probability for the opportunity?",
+  "Which activity notes talk about the competitor being cheaper per page?",
+  "Which record details the product demo feedback on extraction accuracy?",
+  "What is the primary use case the client wants for document AI?",
+  "When was the discovery call held and who attended?",
+  "Which record lists the competitor Kordon Cloud?",
+  "What is the next step agreed in both the note and the meeting?",
+  "What is the region code for the account\u2019s location?",
+  "What is the contact email for the VP of Operations?"
+ ]
+}
