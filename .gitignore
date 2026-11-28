@@ -6,6 +6,13 @@ backend/.pytest_tmp/
 backend/.models/
 backend/finetune/.venv-train/
 backend/var/
+# LLM fine-tune (llm_finetune/README.md): smoke-test venv and outputs, notebook outputs, model files
+llm_finetune/.venv-smoke/
+llm_finetune/_smoke_out/
+llm_finetune/sales_llm_out/
+llm_finetune/results/*.zip
+*.safetensors
+*.gguf
 frontend/node_modules/
 frontend/dist/
 .env
@@ -14,3 +21,4 @@ frontend/dist/
 # personal study material, not part of the published project
 study_guide/
 CONCEPTS.md
+.vercel

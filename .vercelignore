@@ -1,0 +1,15 @@
+/*
+!api
+!backend
+!frontend
+!vercel.json
+!requirements.txt
+frontend/node_modules
+frontend/dist
+backend/.models
+backend/finetune
+backend/eval
+backend/tests
+backend/var
+backend/.venv*
+**/__pycache__

@@ -4,6 +4,8 @@ A full-stack assistant for enterprise sellers: **account briefs, meeting prepara
 
 **Why:** a portfolio project for production generative-AI applications in enterprise sales workflows: React/TypeScript front end, typed FastAPI back end, hybrid RAG on a vector database, an agentic tool-calling workflow, a pluggable LLM layer with NVIDIA NIM as the primary hosted option, and the testing, CI/CD and deployment artefacts around it.
 
+**Live demo: https://sales-ai-copilot-fullstack.vercel.app** (offline mode, synthetic data, no key needed). Pick a persona under "Acting as" to see access control change which accounts, records and citations appear. On Vercel the React build is served as static files and the FastAPI app runs as a Python function ([api/index.py](api/index.py), [vercel.json](vercel.json)). Vercel's Python cannot load SQLite extensions, so the entry point swaps in `pysqlite3-binary` there; the app code is the same as in the containers.
+
 > All companies, people, emails, phone numbers and products are fictional (`backend/scripts/generate_data.py`). The default LLM mode is a **deterministic offline generator, not an LLM**. It lets the whole pipeline run with no API key and makes the tests reproducible. No LLM-mode results are reported because no LLM key was available while this was built.
 
 ![Account brief](docs/account-brief.png)
@@ -135,11 +137,17 @@ On held-out *synthetic* validation questions, vector MRR rose from 0.751 to 0.95
 
 Transfer to accounts left out of training was not measured (that run was stopped on the shared CPU). The accurate summary is "fine-tuned and measured: no significant gain on held-out paraphrases", not "improved retrieval".
 
+### Open-model LLM fine-tune and GPU serving (written and CPU smoke-tested; not yet run on a GPU)
+
+[llm_finetune](llm_finetune/README.md) trains an open model for the Ask task and serves it efficiently, so the `openai_compat` provider can point at a model fine-tuned for this app. `make_dataset.py` runs 889 seller questions (24 intents, SDR, AE and manager personas, 12 accounts) through the app's own planner, retrieval, access control, injection quarantine and PII redaction, captures the exact prompt the app sends, and pairs it with a deterministic target built from the structured record that holds the fact (cited, with PII placeholders), or with the app's abstention when the persona did not receive that record. Test accounts are never seen in training, and the 237-row test set was frozen (SHA-256) before any training. A generated, self-contained notebook QLoRA-fine-tunes `Qwen2.5-1.5B-Instruct` (4-bit NF4 base; transformers, peft, trl, bitsandbytes) on a free Kaggle or Colab T4, scores base vs fine-tuned with the app's own validators (schema, citation validity with the independent access oracle, abstention, fact accuracy, ROUGE-L, bootstrap intervals), then serves the merged model with vLLM 0.32.0 and compares fp16 with GPTQ W4A16 (tokens/s, latency p50/p95 at concurrency 1, 8 and 16, time to first token, peak GPU memory) and tensor parallel 2 vs 1. `eval_endpoint.py` scores any OpenAI-compatible endpoint through the app's own provider.
+
+**Status: not yet run on a GPU; no accuracy or throughput numbers.** Verified here: the dataset build and its leakage checks; the scorer, which gives the app's offline generator 0.68 behaviour accuracy and 0.58 fact accuracy on the frozen test set (0.35 on its held-out question wordings); `eval_endpoint.py` over real HTTP through the app's provider against a stub server (the prompts the live app builds match all 237 frozen ones); and the whole notebook as a CPU smoke run with a 0.5B model, 3 QLoRA steps on a 4-bit base and a stub server in place of vLLM. Its dataset checks add 7 tests to the backend suite (65 pass).
+
 ## What was not done or not verified
 
 - **No LLM-mode run** (no `NVIDIA_API_KEY` or `GEMINI_API_KEY` was available). Only mocked-HTTP tests cover those providers.
+- **The open-model fine-tune notebook ([llm_finetune](llm_finetune/README.md)) has not run on a GPU.** Its vLLM, GPTQ and tensor-parallel cells are written against vLLM 0.32.0's CLI and checked against its source, but have never executed.
 - **Containers**: Docker is not installed on the development machine. Both images (`backend`, `frontend`) are built by the GitHub Actions `images` job (built, not pushed; passing since 24 Nov 2026), but the containers were never started and `docker-compose.yml` was never run. The Kubernetes manifests were validated statically (`scripts/validate_manifests.py`), not applied to a cluster.
-- **The GitHub Actions workflow has not been run** (the repo was not pushed). It includes a step that fails fast if the runner's Python cannot load SQLite extensions.
 - Authentication is a demo `X-User-Id` header with fixed personas. Production would use OIDC/JWT from the company identity provider, with role and territory taken from token claims.
 - No streaming responses, so time-to-first-token is not measured.
 - Prompt-injection and PII detection are heuristics (regex plus a dictionary of known contact names). They are layered with spotlighting and output validation, but a determined attacker or an unknown name format can get past heuristics.
@@ -152,7 +160,7 @@ Transfer to accounts left out of training was not measured (that run was stopped
 | Full-stack engineering: modern front end, back end, APIs, data services, integrations, cloud | React 19 + TypeScript + Vite SPA (`frontend/`), FastAPI with typed Pydantic contracts and an OpenAPI spec (`backend/app/main.py`, `models.py`), TypeScript types generated from that spec, SQLite data and vector service, HTTP integrations with NIM and Gemini |
 | Integrating generative AI models, retrieval systems and agentic workflows into production apps for sales | `agent.py`: plan, tool calls, hybrid retrieval, structured output, citation validation, fallback; account brief, meeting prep and next-best-action workflows |
 | Architecture for performance, availability, observability, security, scalability, maintainability | Stage latency histograms, stateless API with probes and HPA, policy in one module (`security.py`), provider interface, fallback on model failure, typed contracts end to end |
-| Testing, CI/CD, monitoring, production readiness | 58 pytest + 3 vitest tests, evaluation gate, `.github/workflows/ci.yml` (tests, OpenAPI/type drift checks, eval gate, manifest checks, image builds), `/metrics`, JSON logs, audit log |
+| Testing, CI/CD, monitoring, production readiness | 65 pytest + 3 vitest tests, evaluation gate, `.github/workflows/ci.yml` (tests, OpenAPI/type drift checks, eval gate, manifest checks, image builds), `/metrics`, JSON logs, audit log |
 | RAG, vector databases | sqlite-vec KNN with metadata filtering, FTS5 BM25, reciprocal rank fusion, retrieval ablation in the evaluation |
 | AI evaluation | `backend/eval/`: hit rate, citation accuracy, groundedness proxy, leakage, injection and PII checks, CI gate |
 | LLM APIs | One provider interface: OpenAI-compatible (NIM, vLLM, Ollama), Gemini, offline |
@@ -177,7 +185,10 @@ frontend/
   src/api         generated schema.d.ts, typed client
   src/pages       Accounts, AccountBrief (+ next-best-actions), MeetingPrep, Ask
   src/components  citations and source drawer, trace/guardrail panel
+llm_finetune/     open-model QLoRA fine-tune + vLLM serving notebook (Kaggle/Colab T4), dataset builder,
+                  frozen test set, scorer, endpoint evaluator (not yet run on a GPU)
 deploy/k8s/       Kubernetes manifests + kustomization
+api/index.py      Vercel entry point for the live demo (with vercel.json, .vercelignore, requirements.txt)
 scripts/          validate_manifests.py
 docs/             UI screenshots (headless browser, offline mode)
 .github/workflows/ci.yml
